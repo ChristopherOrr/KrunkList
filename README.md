@@ -7,4 +7,4 @@ Click the [URL](https://krunklist.com) to start your wishlist today!
 
 ## Technologies Used
 
-CSS, HTML, Javascript, Web Scraping, Regex & Excel
+CSS, HTML, Javascript, Web Scraping, Regex, JSON & Excel
