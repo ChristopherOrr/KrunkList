@@ -1,0 +1,514 @@
+@font-face {
+  /* Declare Font Family */
+  font-family: krunker;
+  src: url(fonts/FFFForward.ttf);
+}
+
+.navBar {
+  /* Title Image Container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titleImage {
+  /* Resize and add a transition */
+  width: 300px;
+  height: auto;
+  margin: 0 10px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.titleImage:hover {
+  /* Configure hover transformation and filter */
+  transform: scale(1.05);
+  filter: brightness(0.7);
+}
+
+.item h1 {
+  /* Item Text Properties */
+  font-family: krunker;
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-size: 16px;
+  white-space: nowrap;
+  text-shadow: 3px 3px 2px rgba(0, 0, 0, 1);
+  z-index: 1;
+}
+
+.gallery {
+  /* Whole Gallery */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 50px;
+  height: auto; /* set the height of the parent container 1530px */
+  /*overflow: hidden; /* hide any parts of the image that extend beyond the parent container */
+}
+
+#myWishlistGallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.message {
+  font-family: krunker;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  white-space: nowrap;
+  color: rgba(41, 41, 41, 0.425);
+}
+
+.item {
+  /* Properties for each Item "Card" Div */
+  background-color: rgba(0, 0, 0, 0.288);
+  border: 4px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.603);
+  margin: 10px;
+  overflow: hidden;
+  position: relative; /* Needed for Item Label */
+
+  opacity: 0;
+  transform: translateY(20px) scale(0.9);
+  transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+    transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.item.fade-in {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+.item img {
+  /* Properties for an Image within an Item Class */
+  display: block;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+
+/* Rarities */
+
+.nft,
+.nft h1 {
+  color: #f3b8ff;
+  border-color: #f3b8ff;
+}
+
+/* Animate the Unob Border */
+.unob,
+.unob h1 {
+  animation: flash 0.7s ease-out infinite;
+}
+
+@keyframes flash {
+  /* Animate the border of .unob items */
+  0% {
+    border-color: yellow;
+    color: yellow;
+  }
+  25% {
+    border-color: blue;
+    color: blue;
+  }
+  50% {
+    border-color: green;
+    color: green;
+  }
+  75% {
+    border-color: red;
+    color: red;
+  }
+  100% {
+    border-color: yellow;
+    color: yellow;
+  }
+}
+
+.pauseAnimation {
+  animation-play-state: paused;
+}
+
+.contra,
+.contra h1 {
+  border-color: #111111;
+  color: #111111;
+  text-shadow: 0.5px 0.5px 1px rgb(206, 206, 206);
+}
+
+.relic,
+.relic h1 {
+  border-color: #ed4242;
+  color: #ed4242;
+}
+
+.legendary,
+.legendary h1 {
+  border-color: #fbc02d;
+  color: #fbc02d;
+}
+
+.epic,
+.epic h1 {
+  border-color: #e040fb;
+  color: #e040fb;
+}
+
+.rare,
+.rare h1 {
+  border-color: #2196f3;
+  color: #2196f3;
+}
+
+.uncommon,
+.uncommon h1 {
+  border-color: #b2f252;
+  color: #b2f252;
+}
+
+body {
+  /* Website Body Properties  */
+  background-color: #302e2df3;
+  background-image: url("images/bgLogo.png");
+  background-repeat: repeat;
+  background-size: 100px 100px;
+}
+
+.centerBottom {
+  /* Can be used to center an object */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  position: absolute;
+  left: 40%;
+  top: 85%;
+}
+
+.centerTop {
+  /* Can be used to center an object */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  position: absolute;
+  left: 33%;
+  top: 6%;
+}
+
+::-webkit-scrollbar {
+  /* Scrollbar properties */
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f5f5f56c;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.384);
+  border-radius: 10px;
+}
+
+.item .default-button-container {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  display: none;
+  z-index: 2;
+}
+
+.item:hover .default-button-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.527);
+}
+
+.item .excluded-button-container {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+  display: none;
+  z-index: 2;
+}
+
+.item:hover .excluded-button-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.527);
+}
+
+.button {
+  font-family: krunker;
+  border: none;
+  background-color: #302e2df3;
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 4px 0;
+  transition: transform 0.2s ease-in-out;
+}
+
+.removeButton {
+  font-family: krunker;
+  border: none;
+  background-color: #915252f3;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 4px 0;
+  transition: transform 0.2s ease-in-out;
+}
+
+.addToWishlistButton {
+  font-family: krunker;
+  font-size: 75%;
+  border: none;
+  background-color: #302e2df3;
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 4px 0;
+  transition: transform 0.2s ease-in-out;
+}
+
+.inWishlistButton {
+  font-family: krunker;
+  font-size: 75%;
+  border: none;
+  background-color: #699152f3;
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 4px 0;
+}
+
+.cannotBeSold {
+  font-family: krunker;
+  font-size: 115%;
+  border: none;
+  background-color: #302e2d79;
+  color: rgb(255, 255, 255);
+  padding: 0px 20px 10px 20px;
+  border-radius: 5px;
+  margin: 4px 0;
+  opacity: 75%;
+}
+
+.button:hover {
+  transform: scale(1.05);
+  background-color: #242221f3;
+}
+
+.removeButton:hover {
+  transform: scale(1.05);
+  background-color: #743f3ff3;
+}
+
+.addToWishlistButton:hover {
+  transform: scale(1.05);
+  background-color: #242221f3;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(0, 0, 0, 0.85);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  font-family: krunker;
+  margin-left: -10px;
+  margin-right: -10px;
+  overflow-x: hidden;
+}
+
+.navbar-home {
+  font-size: 24px;
+  font-weight: bold;
+  color: white; /* Initial color before animation */
+  text-decoration: none;
+  margin-left: 50px;
+  animation: flash 10s infinite; /* Your existing animation */
+  transition: text-shadow 0.3s ease; /* Smooth transition for the glow effect */
+}
+
+/* Glow effect on hover */
+.navbar-home:hover {
+  text-shadow: 0 0 20px white;
+}
+
+.navbar-search {
+  font-family: krunker;
+  list-style: none;
+  margin: 0;
+  padding: 5px;
+  margin-left: 190px;
+  border-radius: 5px;
+  border-color: transparent;
+  background-color: #5f5f5f;
+}
+
+/* Default Search Bar placeholder color */
+.navbar-search::placeholder {
+  color: white;
+  transition: color 0.2s;
+}
+
+/* When hovering over the search bar, change the placeholder color */
+.navbar-search:hover::placeholder {
+  color: grey;
+}
+
+#remove-all-link {
+  position: absolute;
+  margin-left: 42%;
+}
+
+#remove-all-link:hover {
+  color: rgb(128, 24, 24);
+}
+
+#guiLabel {
+  position: absolute;
+  margin-left: 42%;
+}
+
+.navbar-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link {
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  transition: color 0.2s;
+  margin: 0 50px;
+  margin-left: -10px;
+}
+
+.nav-link:hover {
+  color: #666;
+}
+
+.guiLabel {
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  transition: color 0.2s;
+  margin: 0 10px;
+  margin-right: 50px;
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.footer-content {
+  margin: 0 auto;
+  text-align: center;
+  font-family: krunker;
+  font-size: 8px;
+}
+
+.footer-icon {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.footer a {
+  line-height: 12px;
+}
+
+.footer-icon img {
+  height: 15px;
+  margin-right: 5px;
+}
+
+.footer-icon img:hover {
+  height: 17px;
+}
+
+.slideshow {
+  max-width: 600px;
+}
+
+.slideshow-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60%;
+  position: relative;
+  margin: auto;
+  width: 100%;
+  max-width: 600px;
+}
+
+.slideshow-image {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  max-height: 600px;
+  border: 4px solid rgb(12, 12, 12);
+  border-radius: 5px;
+}
+
+.slideshow-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slideshow-image.active {
+  display: block;
+}
+
+.image-container {
+  position: relative;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+}

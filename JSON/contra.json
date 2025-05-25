@@ -1,0 +1,3668 @@
+[
+  {
+    "id": "1689",
+    "label": "Bits",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_112.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1896",
+    "label": "Baluba",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_128.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1895",
+    "label": "Matryoshka",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_129.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1835",
+    "label": "Ravatron",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_130.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1861",
+    "label": "Disco Mouse",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_139.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1980",
+    "label": "Robob MKI",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_180.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1981",
+    "label": "Robob MKII",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_180_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4004",
+    "label": "NanoSwarm",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_194_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2995",
+    "label": "High Roller",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_206.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2996",
+    "label": "Master Trader",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_207.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4765",
+    "label": "Matrix",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_236_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4170",
+    "label": "Krunkie Planes",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_260.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4183",
+    "label": "Crown Spinner",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_272.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4259",
+    "label": "Hellrider",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_285.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4741",
+    "label": "Deafeningly Loud",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_311.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5325",
+    "label": "K.R.P.D Assault Helmet",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_356.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5326",
+    "label": "1-GOR Outlaw",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_357.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5772",
+    "label": "Ares Helmet",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_399.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5773",
+    "label": "Even Louder?",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_400.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5810",
+    "label": "The Welder Hat",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_404_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6299",
+    "label": "Inhumane Helmet",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_415.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6303",
+    "label": "GATEKEEPER",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_416.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6325",
+    "label": "Outline",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_421.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6356",
+    "label": "Annoying",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_446.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6363",
+    "label": "Blinker",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_453.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6368",
+    "label": "Bloated",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_458.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6401",
+    "label": "Brainrot",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_459.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6402",
+    "label": "Tiny hat abduction",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_460.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1068",
+    "label": "U.F.0",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_68.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3982",
+    "label": "Prototype-51",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_68_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4395",
+    "label": "Snowy Saucer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_68_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1427",
+    "label": "Planetarium",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_83.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3983",
+    "label": "Heatmap",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_83_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3242",
+    "label": "Soul Shard",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4388",
+    "label": "Ice Shard",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_0_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4222",
+    "label": "Krunkanium",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4415",
+    "label": "Frost Essence",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_15.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4416",
+    "label": "Soul Essence",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_15_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4040",
+    "label": "Uranium",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5365",
+    "label": "KRPD Cruiser",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/12_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5577",
+    "label": "TV TRON",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/12_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5578",
+    "label": "Lucky cat",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/12_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5847",
+    "label": "Gifted",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/12_5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6269",
+    "label": "Royal Cross",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/12_6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5324",
+    "label": "Season 6 Ultra Ticket",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/13_0_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6426",
+    "label": "Season 7 Ultra Ticket",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/13_0_8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2695",
+    "label": "Present Tamer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_102.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2857",
+    "label": "Sea Tamer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_105.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4061",
+    "label": "Drift Tamer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_108.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4776",
+    "label": "Matrix Monitors",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_109_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4068",
+    "label": "Helping Hands",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_115.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4069",
+    "label": "Soul Fiend",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_115_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4073",
+    "label": "Xeno Wings",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_119.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4084",
+    "label": "Nuclear",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_129.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4097",
+    "label": "Skull Tamer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_142.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4112",
+    "label": "Toilet Tamer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_157.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5028",
+    "label": "Stardust cape",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_183.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5033",
+    "label": "Vulkan's Chest",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_184.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5327",
+    "label": "KRPD Vest",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_191.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5328",
+    "label": "1-GOR Jacket",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_192.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5710",
+    "label": "4 Year Cape",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_193.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5781",
+    "label": "Amplifier",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_196.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5809",
+    "label": "The Welder",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_198_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5790",
+    "label": "Shattered Spectre",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_205.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5798",
+    "label": "Ares Breath",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_213.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5803",
+    "label": "Honey Wings",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_218.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5805",
+    "label": "Volume Waves",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_220.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5846",
+    "label": "Snowman Body",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_223.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5871",
+    "label": "Firework Tamer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_224.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6298",
+    "label": "Inhumane Armour",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_230.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6382",
+    "label": "Outlined",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_233.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6390",
+    "label": "Inflated",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_241.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1023",
+    "label": "Egg Tamer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_31.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1479",
+    "label": "Black Widow",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_46.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1792",
+    "label": "Arachnidis",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_46_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1483",
+    "label": "1 Year Cape",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_52.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1484",
+    "label": "2 Year Cape",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_52_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3198",
+    "label": "Ember Lord",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_52_12.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1736",
+    "label": "Neon Dance",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_52_4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1793",
+    "label": "Infinity Cloak",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_52_5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2441",
+    "label": "Captain Galaxy",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_52_6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4196",
+    "label": "3 Year Cape",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_52_9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1626",
+    "label": "Shattered Asura",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_53_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1630",
+    "label": "Soul Harvest",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_53_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1642",
+    "label": "Nuke Tamer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_56.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1751",
+    "label": "Observer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_60.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1897",
+    "label": "Kali",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_65.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1898",
+    "label": "Union",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_66.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1905",
+    "label": "Rune Lord",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_69.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2438",
+    "label": "Plasmacrow",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_72_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2060",
+    "label": "Imagination",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_81.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2062",
+    "label": "Moonlit",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_83.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2064",
+    "label": "Bipolar",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_85.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "931",
+    "label": "Vantablack",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "945",
+    "label": "Spectralon",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1891",
+    "label": "K.P.D Uniform",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1906",
+    "label": "Ghostly",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_12.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4412",
+    "label": "Santa Suit",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_23.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4413",
+    "label": "Gingerbread Suit",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_24.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5818",
+    "label": "Greyscale",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_26.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6434",
+    "label": "Deviously",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_29.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6437",
+    "label": "Burgundy",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_30.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1643",
+    "label": "Floatie",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1892",
+    "label": "AP Rally",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_10.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2894",
+    "label": "Fighter",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_16.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2975",
+    "label": "KrunkBoard",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_18.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4060",
+    "label": "Cloud Rider",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_21.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4204",
+    "label": "Trolley",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_26.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1672",
+    "label": "USS Krunk",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1673",
+    "label": "USS TTV",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_4_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5717",
+    "label": "Tornado",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_48.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5718",
+    "label": "Genie",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_49.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5721",
+    "label": "Ares Belt",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_52.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5812",
+    "label": "The Welder Belt",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_55_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5725",
+    "label": "Loud and Proud",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_56.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5853",
+    "label": "Snowman Waist",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_58.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6404",
+    "label": "Bloat-mobile",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_68.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6408",
+    "label": "Unicycle",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_72.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1894",
+    "label": "Magic Carpet",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1893",
+    "label": "Chaffee",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3872",
+    "label": "Future Fighter",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_121.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3897",
+    "label": "Star Struck",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_145.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4251",
+    "label": "The Maw",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_155.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4356",
+    "label": "Snapped",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_184.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4583",
+    "label": "Aim Bot",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_227.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4584",
+    "label": "Space Captain",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_228.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4586",
+    "label": "Monoeye",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_230.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4652",
+    "label": "Hologram",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_253.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5386",
+    "label": "8ball",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_431.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5387",
+    "label": "Enraged",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_432.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5388",
+    "label": "Bot Boy",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_433.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5389",
+    "label": "What",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_434.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5390",
+    "label": "Black Belt",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_435.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5391",
+    "label": "Utter Shock",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_436.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5411",
+    "label": "Smiler",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_456.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5418",
+    "label": "Sticker Show",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_463.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5419",
+    "label": "TO BATTLE!",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_464.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5420",
+    "label": "Digitized",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_465.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5950",
+    "label": "High Accuracy",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_506.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5951",
+    "label": "Rainbow Clown",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_507.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5957",
+    "label": "Cat Fished",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_513.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3059",
+    "label": "Killa",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6291",
+    "label": "Visually Loud",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_3_11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4404",
+    "label": "Kisser",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_3_7.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4471",
+    "label": "Froggie",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_3_9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2085",
+    "label": "Squeakers",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4205",
+    "label": "Elf Shoes",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4720",
+    "label": "Air Krunker 4's",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_16.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4721",
+    "label": "SlideHoppers",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_17.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4722",
+    "label": "Krunkciago Kroks",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_18.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4723",
+    "label": "Who farted ?",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_19.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2086",
+    "label": "Bunnies",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5227",
+    "label": "Mi0 Boots",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_23.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5331",
+    "label": "Combat Boots",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_25.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5332",
+    "label": "Outlaw Boots",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_26.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5704",
+    "label": "LOUD Shoes",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_28.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5811",
+    "label": "The Welder Boots",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_30_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5709",
+    "label": "Ares Step",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_33.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6300",
+    "label": "Inhumane Boots",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_41.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6304",
+    "label": "Gatekeeper Walkers",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_42.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6335",
+    "label": "Boingggggg",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_46.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2965",
+    "label": "Pumpie",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/9_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6317",
+    "label": "Paper Airplane",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/9_12.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3149",
+    "label": "Pay Piggie",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/9_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5850",
+    "label": "Festive Flyer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/9_9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4197",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_0_10.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "412",
+    "label": "Hollow Fade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_0_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "418",
+    "label": "Frostlance",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_0_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1624",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_0_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1719",
+    "label": "Alter",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3128",
+    "label": "Sticky Situation",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_10.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3201",
+    "label": "Flamelurker",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_13.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3902",
+    "label": "W49B Gamma",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_14.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3903",
+    "label": "Forged",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_15.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1735",
+    "label": "Redux",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2423",
+    "label": "Dark Matter",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2943",
+    "label": "Cold-Saga",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2974",
+    "label": "Xingshi",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_7.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3112",
+    "label": "Neo Splatter",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3113",
+    "label": "Night Reaper",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_10_9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5282",
+    "label": "AXX",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_100.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5283",
+    "label": "KU-NAI_DN",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_101.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5319",
+    "label": "Football",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_102.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5361",
+    "label": "KRPD Negotiator",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_104.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5367",
+    "label": "Marauders Cleaver",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_105.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5368",
+    "label": "Aether Haze",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_106.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5520",
+    "label": "2007forever",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_107.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5522",
+    "label": "MC Slappy",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_109.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1400",
+    "label": "Acid Razer",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1401",
+    "label": "Lumus",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_11_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2944",
+    "label": "Drakania",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_11_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5523",
+    "label": "MAGI",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_110.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5524",
+    "label": "Coldest Shard",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_111.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5525",
+    "label": "Shogeki",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_112.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5863",
+    "label": "Gifted Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_113.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5866",
+    "label": "Celebration Bottle",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_114.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5889",
+    "label": "P1ckMe",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_115.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5903",
+    "label": "Clover",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_116.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5929",
+    "label": "Rotten Arm",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_117.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6252",
+    "label": "Pokie",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_119.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1402",
+    "label": "Heated Crowbar",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_12.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6253",
+    "label": "Volcanic Forge",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_120.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6254",
+    "label": "Chainsaw",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_121.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6289",
+    "label": "SACRED TOUCH",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_122.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6421",
+    "label": "Caretaker",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_124.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6422",
+    "label": "Slammer",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_125.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3904",
+    "label": "Jormungandr's Venom",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_13_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1659",
+    "label": "Antidote XVI",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_15.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1866",
+    "label": "Shuriken",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_19.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "447",
+    "label": "Soul Fang",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1826",
+    "label": "Despair",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_2_7.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2431",
+    "label": "Plasma Ball",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_20_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2440",
+    "label": "Galaxys",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_20_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2432",
+    "label": "Chain Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_25.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2433",
+    "label": "Galagis",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_25_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "813",
+    "label": "Flamefang",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_3_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1796",
+    "label": "Void Slicer",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_3_13.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2420",
+    "label": "Psychofang",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_3_14.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2940",
+    "label": "Shuhei",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_3_18.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "814",
+    "label": "Plasma Dust",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_3_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5054",
+    "label": "Krypto Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_3_27.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "815",
+    "label": "Volt Fang",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_3_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2790",
+    "label": "Dummy Grenade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_31.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6436",
+    "label": "Mirror's Cutlass",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_33_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2859",
+    "label": "Captain Hook",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_34.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2893",
+    "label": "Model 24 Stielhandgranate",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_35.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2994",
+    "label": "Vandal",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_37.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2998",
+    "label": "Citizen's Arrest",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_38.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1717",
+    "label": "Fadecrusher",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_4_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3110",
+    "label": "Xenize",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_4_5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3111",
+    "label": "Splasher",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_4_6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3130",
+    "label": "Lollipop",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_40.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3913",
+    "label": "Phasma",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_45_10.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4271",
+    "label": "Tryptophobia",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_45_12.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4294",
+    "label": "Royal Turkey",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_45_13.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4440",
+    "label": "Kill Kount",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_45_15.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5600",
+    "label": "Virus",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_45_29.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3907",
+    "label": "Galamyth",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_45_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3908",
+    "label": "EL Cuchillo De la Muerte",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_45_5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3910",
+    "label": "Poison Fang",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_45_7.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3917",
+    "label": "HOROLOGIUM",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_47_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4604",
+    "label": "Hail the night",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_47_7.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3921",
+    "label": "Plasma Cutter",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_48.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3922",
+    "label": "Remnant",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_49.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3925",
+    "label": "Trekina",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_51_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4051",
+    "label": "Hell's Butcher",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_52.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3927",
+    "label": "Bloodthirster",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_53.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3928",
+    "label": "Omega",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_54.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3929",
+    "label": "Quasar",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_55.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3930",
+    "label": "Amethyst",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_56.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3932",
+    "label": "Rusty Fire",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_56_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4424",
+    "label": "Molten Dagger",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_56_9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4207",
+    "label": "Souleater",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_58.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4223",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_60.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4273",
+    "label": "Marrowborne",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_62.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4398",
+    "label": "Present Basher",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_65.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4417",
+    "label": "Echoo",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_66.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4441",
+    "label": "Hero's Obelisk",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_68.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4494",
+    "label": "Hexodynamic",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_69.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4530",
+    "label": "Unguibus",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_70.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4531",
+    "label": "Emperor's Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_71.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4532",
+    "label": "Silver Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_71_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4533",
+    "label": "Master Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_71_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4534",
+    "label": "Gold Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_71_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4535",
+    "label": "Bronze Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_71_4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4536",
+    "label": "Diamond Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_71_5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4573",
+    "label": "Aromatic Blade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_72.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4574",
+    "label": "Chunchunmaru",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_73.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4598",
+    "label": "Inquisitor's Cyberblade",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_74.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4599",
+    "label": "Bronze Cyberedge",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_75.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4600",
+    "label": "Silver Cyberedge",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_75_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4601",
+    "label": "Gold Cyberedge",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_75_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4602",
+    "label": "Diamond Cyberedge",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_75_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4603",
+    "label": "Master Cyberedge",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_75_4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4714",
+    "label": "Demonic Wrath",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_76.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4715",
+    "label": "BladeLink-60",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_77.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4716",
+    "label": "Crystal Runes",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_78.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4717",
+    "label": "Kunaiz",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_79.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4718",
+    "label": "Stabby",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_80.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4719",
+    "label": "Toucaxe 2077",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_81.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4861",
+    "label": "CuttingEdge",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_85.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4931",
+    "label": "Tactical advantage",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_86.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4954",
+    "label": "KeepSafe",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_87.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4955",
+    "label": "Classic.",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_87_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4956",
+    "label": "futurism",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_87_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4957",
+    "label": "CLRBLD",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_87_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4958",
+    "label": "BWBLD",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_87_4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5022",
+    "label": "Krunkiela 1",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_88.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5023",
+    "label": "Datakorder",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_88_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5024",
+    "label": "sTARZ2",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_89.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5025",
+    "label": "Dorange",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_89_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5026",
+    "label": "Dopler",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_89_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5111",
+    "label": "SmILe",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_89_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5112",
+    "label": "BaLl",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_89_4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5027",
+    "label": "Cyber Alia",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_90.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5032",
+    "label": "Starduster",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_91.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5038",
+    "label": "Apprentice's might",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_92.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5039",
+    "label": "Legend's might",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_92_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5040",
+    "label": "Hero's might",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_92_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5041",
+    "label": "Superhero's smite",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_93.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5042",
+    "label": "Grandmaster's smite",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_93_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5083",
+    "label": "Joe's Dinner Knife",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_94.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5104",
+    "label": "LinkBlade-70",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_95.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5154",
+    "label": "DaggerLink-33.5",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_96.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5226",
+    "label": "Kama",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_97.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5216",
+    "label": "BEETLEJUICE",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_98.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5231",
+    "label": "Carnage friends",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_99.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1089",
+    "label": "Akkoro",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_162.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1093",
+    "label": "Nova",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_166.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1631",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_203.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1656",
+    "label": "Izulu",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_208.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1657",
+    "label": "Izula",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_209.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1725",
+    "label": "Death Parade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_216.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1760",
+    "label": "Demonic Haze",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_218.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2127",
+    "label": "Envious",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_244.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3016",
+    "label": "Stargazer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_305.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3247",
+    "label": "Viva la Muerte",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_321.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5374",
+    "label": "The Oni",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_412.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5376",
+    "label": "Lurking Predator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_414.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5385",
+    "label": "BitCrush",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_423.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6272",
+    "label": "Lovesick",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_449.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6273",
+    "label": "Neo Punk",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_450.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6275",
+    "label": "Angelic Fury",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_452.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6575",
+    "label": "Doomsday",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_465.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "395",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "881",
+    "label": "Baller",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_c6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "998",
+    "label": "Shattercore",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_c7.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1627",
+    "label": "Pellucid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_c8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "445",
+    "label": "Intervention VI",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "446",
+    "label": "Intervention XI",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m0_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4056",
+    "label": "EX7 Cybernetics",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m10.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4054",
+    "label": "M82",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3953",
+    "label": "Eliminator Mk.V",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m12.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4224",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m13.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4539",
+    "label": "Venator tigris",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m15.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4540",
+    "label": "The New King",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m16.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4597",
+    "label": "Zhora II",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m17.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4862",
+    "label": "Ruinoid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m18.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4953",
+    "label": "Longinus",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m19.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5113",
+    "label": "Exotica-S",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m20.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5342",
+    "label": "K.R.P.D Stalker",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m21.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5683",
+    "label": "DYSTO_P1",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m22.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6238",
+    "label": "DES Tychodyne 64",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m23.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6239",
+    "label": "Dracaena DSG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m24.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6817",
+    "label": "AVENGER",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m25.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6818",
+    "label": "CelestialDragon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m26.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6819",
+    "label": "Hana's Retribution",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m27.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1406",
+    "label": "Good Ol' Days",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1734",
+    "label": "Scout Mastery",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2896",
+    "label": "Kr-98",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3938",
+    "label": "Crowsnest",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5519",
+    "label": "LIT $MILE",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_158.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1071",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_41.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2470",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_78.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2976",
+    "label": "EMPG Surge",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m1_0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3077",
+    "label": "Agent Mastery",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m2_94.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3949",
+    "label": "Echelon-2",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m3_140.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4233",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m4_141.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4495",
+    "label": "Luv is rage",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m6_144.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6420",
+    "label": "Brain Massage",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m7_181.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1732",
+    "label": "Prototype BWSX",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1733",
+    "label": "Hexgen",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5580",
+    "label": "Minttt",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_104.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5583",
+    "label": "Error 404",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_107.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5590",
+    "label": "Dracuo",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_114.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5821",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_118.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6156",
+    "label": "Red Drago",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_122.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6287",
+    "label": "INHUMANE!",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_131.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2294",
+    "label": "Ultranoir",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_14.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1789",
+    "label": "Devourer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3627",
+    "label": "Desert Bagel",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_49.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3639",
+    "label": "Hollow Matter",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_61.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4325",
+    "label": "OmuraZ-XY",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_72.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1883",
+    "label": "Abyssal",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2468",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2424",
+    "label": "Silenced",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2977",
+    "label": "Gelion MK 1",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4049",
+    "label": "MX-12",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4234",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4442",
+    "label": "DesertHawk",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m6_79.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4791",
+    "label": "Desert hare",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m7_94.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5037",
+    "label": "Vulkan's Veagle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6256",
+    "label": "Takao 11",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_m9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5822",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_12_10.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2295",
+    "label": "Vroominator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_12_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2473",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_12_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2997",
+    "label": "Cyberblast",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4058",
+    "label": "Maximum Boost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4235",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5891",
+    "label": "Cupids Blaster",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3650",
+    "label": "Prototype X-12",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_25.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5823",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_45.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1073",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3040",
+    "label": "Bowman Mastery",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4059",
+    "label": "Cafe Lancer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4236",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5883",
+    "label": "LOVESTRUCK",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_m5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2309",
+    "label": "Gate to Hxll",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_146.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2444",
+    "label": "Woodstock",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_173.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3103",
+    "label": "LW-812",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_194.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3670",
+    "label": "Retro Mamaia",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_208.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4201",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_242.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5125",
+    "label": "Worried Sick",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_255.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5126",
+    "label": "Worried ill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_256.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6173",
+    "label": "Acid Devourer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_291.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6175",
+    "label": "Infected Facility",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_293.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1072",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4046",
+    "label": "AUG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3951",
+    "label": "HeatWave",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4237",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5896",
+    "label": "Lucky Famas",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_m6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5824",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_16_32.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2474",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_16_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1625",
+    "label": "C0b4lt",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_16_c5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3952",
+    "label": "Sonic Shotgun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_16_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4238",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_16_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5566",
+    "label": "Akaiittou VII",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_16_m4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5825",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_101.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3714",
+    "label": "Buckshots",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_35.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3716",
+    "label": "Azashi",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_37.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4528",
+    "label": "Mane Attraction",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_55.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5553",
+    "label": "HI!*",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_96.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2471",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2690",
+    "label": "Present Danger",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_m0_0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4048",
+    "label": "CZ-75",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4239",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_m4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5175",
+    "label": "ZOOTIEZ",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_m6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3729",
+    "label": "Fervid Spirit",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_13.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3734",
+    "label": "Krunk n Roll",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_18.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5560",
+    "label": "Galaxy Explorer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_60.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5826",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_71.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2469",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4057",
+    "label": "Blaster Mastery",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_m0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4240",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6237",
+    "label": "Atomic Neutralizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "563",
+    "label": "Acid Howler",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_113.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "957",
+    "label": "Scarlet",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_118.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1140",
+    "label": "Apocalypse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_150.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1152",
+    "label": "Futuristic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_163.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1153",
+    "label": "Raiju",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_164.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1459",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_203.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1533",
+    "label": "StremZ",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_204.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2156",
+    "label": "Kaiju",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_239.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2115",
+    "label": "AK Iris",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_268.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2592",
+    "label": "Grinchmas",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_276.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3081",
+    "label": "Tomb Nader",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_318.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3314",
+    "label": "Shroud of Fire",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_346.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3319",
+    "label": "Magnus",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_352.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4265",
+    "label": "Suetic at home",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_386.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4480",
+    "label": "Interspectrum 2.0",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_401.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5115",
+    "label": "Reality Warper",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_427.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5156",
+    "label": "Celestial Harvester",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_429.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5450",
+    "label": "CYBER>RAGE",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_439.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5455",
+    "label": "My Boy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_444.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5459",
+    "label": "Hunted",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_448.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6107",
+    "label": "Trouble and Mayhem",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_482.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6109",
+    "label": "Eye Candy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_484.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6115",
+    "label": "Ghost Blade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_490.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6433",
+    "label": "Ectoplasm",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_494.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6639",
+    "label": "Curse of Jormungandur",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_505.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "312",
+    "label": "1Ad-dA0",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_c0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "313",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "882",
+    "label": "Baller",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_c6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1628",
+    "label": "Pellucid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_c8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2437",
+    "label": "Good Ol' Days",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4053",
+    "label": "City-47",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m10.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4225",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4392",
+    "label": "Present Assault",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m13_395.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4541",
+    "label": "TGR-011",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m14.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4596",
+    "label": "AJ47",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m15.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4772",
+    "label": "Sanguine",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m16_412.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5036",
+    "label": "Vulkan's V2000",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m17.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5228",
+    "label": "Rezu",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m18.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6381",
+    "label": "Lordship",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m19.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2538",
+    "label": "Trigger Mastery",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2789",
+    "label": "VSS",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3207",
+    "label": "Eternal Flame",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3939",
+    "label": "Cyclone",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3940",
+    "label": "SharkByte",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m7.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4052",
+    "label": "Makeshift",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3941",
+    "label": "TA-97",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_m9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5527",
+    "label": "Volcano",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_22_11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5827",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_22_15.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5828",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_22_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5075",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_22_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4701",
+    "label": "L-0-V-3.CANNON",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_23_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6241",
+    "label": "Alchemist",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_23_10.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4702",
+    "label": "KILLER.CANNON",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_23_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4952",
+    "label": "Pulse Reactor",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_23_4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5829",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_23_9.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5830",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_23_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5831",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_25_11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6184",
+    "label": "Zapuranium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_25_15.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5832",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_25_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5833",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_28_13.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6188",
+    "label": "Liberty",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_28_16.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5834",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_28_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4418",
+    "label": "Takanomei's Myth",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_28_m0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5835",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_29_3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5836",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_29_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5838",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_29_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6290",
+    "label": "De-Humanizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_29_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1070",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "996",
+    "label": "Osiris' Servant",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m0_1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2825",
+    "label": "Namazu",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m0_11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3355",
+    "label": "Zrym",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m0_28.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3356",
+    "label": "Adrenaline",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m0_29.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4668",
+    "label": "LASEREDEMPTION",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m0_50.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4669",
+    "label": "Flash",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m0_51.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2777",
+    "label": "0v3Rload",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m0_8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6306",
+    "label": "DESTINY",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m10_77.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1065",
+    "label": "Ceretta 92",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m2_2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3170",
+    "label": "Glizzy .22",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m3_23.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4050",
+    "label": "Sel1609",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m4_36.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4055",
+    "label": "Catgirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m5_37.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4226",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m6_38.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5225",
+    "label": "1911",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m8_62.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5921",
+    "label": "Good'ol'Pistol",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m9_70.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1198",
+    "label": "WildClaw",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_131.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1204",
+    "label": "Bahamut",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_137.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1460",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_184.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5179",
+    "label": "Oldie",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_348.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5478",
+    "label": "Aurora Tribe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_361.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5481",
+    "label": "Grand",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_364.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6243",
+    "label": "RED//OMEGA",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_391.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6251",
+    "label": "Authority",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_399.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "311",
+    "label": "x0n-voX",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_c0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "314",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "883",
+    "label": "Baller",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_c6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2425",
+    "label": "Exo-Skeleton",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2426",
+    "label": "MP5",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4563",
+    "label": "Neko-90",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m10.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4860",
+    "label": "Pink-90",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m11.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5279",
+    "label": "Escorpio",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m12.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5369",
+    "label": "Barebones",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m13.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5595",
+    "label": "veccy!",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m14.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6380",
+    "label": "Bunny Gun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m16.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5922",
+    "label": "Good'ol'Smg",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m17.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6255",
+    "label": "Bloc97",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m18.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2427",
+    "label": "Bizon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3129",
+    "label": "Gumballer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3954",
+    "label": "Cataclysm",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3955",
+    "label": "Frontliner",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4227",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_m8.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "114",
+    "label": "Flame Tamer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_13.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4198",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_256.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5487",
+    "label": "Holsu",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_296.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5490",
+    "label": "T.H. Cyber Covenant",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_299.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6128",
+    "label": "Chromatic Penta",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_331.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1309",
+    "label": "Sea Wanderer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_97.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "865",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "884",
+    "label": "Baller",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_c6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3116",
+    "label": "Detective Mastery",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3942",
+    "label": "Cryogen III",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3943",
+    "label": "Helios M2",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4228",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4907",
+    "label": "Snubby",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6236",
+    "label": "ARISAKA",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1629",
+    "label": "Pellucid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_102.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2443",
+    "label": "Woodstock",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_145.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2467",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_146.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4199",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_216.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4560",
+    "label": "Toshiko",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_229.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4679",
+    "label": "TRESPASSER",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_237.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5501",
+    "label": "Imperial Ice",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_261.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6138",
+    "label": "Wrath",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_292.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3041",
+    "label": "Vince Mastery",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m1_168.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5076",
+    "label": "Good Ol' Days",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m10_250.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5730",
+    "label": "Hateful Flesh",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m11_275.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3944",
+    "label": "Old Trusty",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m2_216.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4229",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m3_217.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4293",
+    "label": "The Mighty Gobbler",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m4_218.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4562",
+    "label": "Overgrown",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m6_230.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4771",
+    "label": "Revolving Shotgun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m7_240.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4789",
+    "label": "Tavor SG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m8_241.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4790",
+    "label": "Type A",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m9_242.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1461",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_121.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2376",
+    "label": "Centibeast",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_132.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3220",
+    "label": "The Dragon's Legend",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_171.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3507",
+    "label": "Nefertiti",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_187.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5508",
+    "label": "Awaken Flame",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_233.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "864",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2435",
+    "label": "Good Ol' Days",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3945",
+    "label": "Atlas Guardian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4155",
+    "label": "AEK-999",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3946",
+    "label": "Prism",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m4.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3947",
+    "label": "TSH Type 105",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3956",
+    "label": "Chauchat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4230",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m7.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4401",
+    "label": "Stocking Stuffer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_m9_221.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4200",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_161.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "6119",
+    "label": "Gemstone",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_206.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2442",
+    "label": "Discoblaze",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_91.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2466",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_92.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3115",
+    "label": "Marksman Mastery",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m1_116.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4045",
+    "label": "SAR-502",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m2_161.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4231",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m3_163.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5684",
+    "label": "Bondsman",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m5_193.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "1462",
+    "label": "Hackusate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_74.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2472",
+    "label": "Raynb0w",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_c1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2852",
+    "label": "Broadside",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_m0_0.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3948",
+    "label": "SMAW",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_m1.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4232",
+    "label": "Lunar Eclipse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_m2.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4282",
+    "label": "Coffin Cannon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_m3.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "4788",
+    "label": "Egg Launcher",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_m5.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5370",
+    "label": "Froge",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_m6.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "951",
+    "label": "Krunkette 1",
+    "url": "https://assets.krunker.io/textures/sprays/51.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "2108",
+    "label": "Rolled",
+    "url": "https://assets.krunker.io/textures/sprays/128.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "3845",
+    "label": "Krunk Twerk",
+    "url": "https://assets.krunker.io/textures/sprays/320.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5432",
+    "label": "KR Minion",
+    "url": "https://assets.krunker.io/textures/sprays/402.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  },
+  {
+    "id": "5449",
+    "label": "True Strength",
+    "url": "https://assets.krunker.io/textures/sprays/419.png?build=52xhevJNgeGecufFFR9kAfbi6THg5Jk2",
+    "rarity": "contraband"
+  }
+]

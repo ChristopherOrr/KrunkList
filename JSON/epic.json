@@ -1,0 +1,5606 @@
+[
+  {
+    "id": "5962",
+    "label": "Color Your World",
+    "url": "https://assets.krunker.io/textures/playercards/card_16.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6122",
+    "label": "Streak",
+    "url": "https://assets.krunker.io/textures/playercards/card_18.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6124",
+    "label": "Into the Void",
+    "url": "https://assets.krunker.io/textures/playercards/card_20.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6192",
+    "label": "Orange Tiger",
+    "url": "https://assets.krunker.io/textures/playercards/card_23.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6193",
+    "label": "White Tiger",
+    "url": "https://assets.krunker.io/textures/playercards/card_24.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6194",
+    "label": "Teal Tiger",
+    "url": "https://assets.krunker.io/textures/playercards/card_25.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6195",
+    "label": "Blue Tiger",
+    "url": "https://assets.krunker.io/textures/playercards/card_26.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6196",
+    "label": "Green Tiger",
+    "url": "https://assets.krunker.io/textures/playercards/card_27.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6212",
+    "label": "Hex Matrix",
+    "url": "https://assets.krunker.io/textures/playercards/card_38.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5910",
+    "label": "Kamouflage",
+    "url": "https://assets.krunker.io/textures/playercards/card_5.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5911",
+    "label": "Cherry Blossom",
+    "url": "https://assets.krunker.io/textures/playercards/card_6.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5913",
+    "label": "Atomize",
+    "url": "https://assets.krunker.io/textures/playercards/card_8.webp?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "111",
+    "label": "Top Hat",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1453",
+    "label": "Ducky",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_104.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1458",
+    "label": "Wizard",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_109.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "239",
+    "label": "Brown Beard",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_11.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "240",
+    "label": "Blonde Beard",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_11_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1678",
+    "label": "Twitched",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_111.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1742",
+    "label": "Paraseye",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_118.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1745",
+    "label": "Braindead",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_122.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "244",
+    "label": "Krunk Headset",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_14.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "245",
+    "label": "Cherry Headset",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_14_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1930",
+    "label": "Goblin King",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_147.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1933",
+    "label": "Lincoln",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_149.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1937",
+    "label": "Rice Hat",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_154.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1941",
+    "label": "Blonde",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_157.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1942",
+    "label": "Ranga",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_157_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1943",
+    "label": "Elvis",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_157_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1944",
+    "label": "Brunet",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_157_3.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1945",
+    "label": "Fancy",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_158.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1946",
+    "label": "Beaver",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_158_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1947",
+    "label": "Lucky",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_158_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1949",
+    "label": "Black Cloak",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_160.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1950",
+    "label": "White Cloak",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_160_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1954",
+    "label": "Stupid",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_163.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1958",
+    "label": "Pope",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_166.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "267",
+    "label": "Uranium",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_17_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1975",
+    "label": "Magic",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_178.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1982",
+    "label": "Black Bucket",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_181.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1983",
+    "label": "White Bucket",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_181_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1985",
+    "label": "Green Present",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_183.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1986",
+    "label": "Red Present",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_183_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1987",
+    "label": "Red Mask",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_184.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1988",
+    "label": "Green Mask",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_184_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1989",
+    "label": "Blue Mask",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_184_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1990",
+    "label": "Pink Mask",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_184_3.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2000",
+    "label": "Red Eye",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_191.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2001",
+    "label": "Blue Eye",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_191_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2010",
+    "label": "Mad",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_198.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4122",
+    "label": "Notification",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_216.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4124",
+    "label": "Cleaver Head",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_218.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "277",
+    "label": "Cat Ears",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_22.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4129",
+    "label": "Winter Hood",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_223.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4130",
+    "label": "Kitty Headphones",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_224.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4134",
+    "label": "Flushed Heart",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_228.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "278",
+    "label": "Snowman",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_23.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4137",
+    "label": "Kitsune",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_231.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4145",
+    "label": "Swearing",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_238.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4146",
+    "label": "Check Trades!",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_238_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4156",
+    "label": "MooMoo",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_246.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4157",
+    "label": "William Tell",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_247.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4764",
+    "label": "Boxxi",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_248_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4164",
+    "label": "Monke",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_254.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4167",
+    "label": "Cupcake",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_257.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4763",
+    "label": "Abused laptop",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_258_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4172",
+    "label": "Love Bands",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_262.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4176",
+    "label": "Diamond Helmet",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_266.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4177",
+    "label": "Pink Pacifier",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_267.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4178",
+    "label": "Blue Pacifier",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_267_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4766",
+    "label": "Nuggi",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_267_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4179",
+    "label": "Black Balaclava",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_268.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4187",
+    "label": "Peary",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_275.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4759",
+    "label": "Rainbow beluga",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_282_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4215",
+    "label": "Turd",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_283.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4379",
+    "label": "Jolly Wingman",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_289.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4745",
+    "label": "Rubic",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_315.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4754",
+    "label": "Rest Stop",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_322.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4755",
+    "label": "Impacted",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_323.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4756",
+    "label": "Freshen up",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_324.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4805",
+    "label": "Distinguished Bunny",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_328.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "857",
+    "label": "Soldier 159",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_35_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "858",
+    "label": "Soldier 160",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_35_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5733",
+    "label": "Trunk",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_360.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5734",
+    "label": "Balanced Diet",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_361.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5744",
+    "label": "Mush Top",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_371.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5745",
+    "label": "Baked",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_372.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5746",
+    "label": "Cant CD's eyes",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_373.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5752",
+    "label": "You got mailed",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_379.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5753",
+    "label": "Downforce",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_380.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5756",
+    "label": "Sprout",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_383.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5757",
+    "label": "BIG L",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_384.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5763",
+    "label": "Free DLC",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_390.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5766",
+    "label": "Sad Default Cube",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_393.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5770",
+    "label": "Failed Experiment",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_397.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "117",
+    "label": "Medic Helmet",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_4.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6323",
+    "label": "Profile",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_419.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6324",
+    "label": "Files",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_420.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6329",
+    "label": "Whats this ?",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_425.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6330",
+    "label": "Old Man",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_426.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6340",
+    "label": "Tasty",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_430.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6341",
+    "label": "Cut here",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_431.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6343",
+    "label": "Anger",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_433.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6345",
+    "label": "Scribble",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_435.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6347",
+    "label": "Bricked",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_437.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6348",
+    "label": "Dr.Jon",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_438.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6349",
+    "label": "Butter",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_439.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6353",
+    "label": "Status",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_443.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6358",
+    "label": "Custom Keyboard",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_448.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6361",
+    "label": "Dutch",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_451.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6362",
+    "label": "Special Goggles",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_452.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "840",
+    "label": "Mr. Rabbiton",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_46.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "841",
+    "label": "Madman",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_47.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "842",
+    "label": "Grizz Lee",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_48.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "844",
+    "label": "Simba",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_49.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "845",
+    "label": "Captain Walrus",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_50.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "846",
+    "label": "Monke",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_51.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3981",
+    "label": "Sweet Rays",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_53_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "851",
+    "label": "Snowman",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_55.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "852",
+    "label": "Misty",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_56.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "944",
+    "label": "Facemask",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_60.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1011",
+    "label": "Carrot Top",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_61.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1012",
+    "label": "Mr Chick",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_62.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1013",
+    "label": "Bunny",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_63.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1419",
+    "label": "Hotdogger",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_77.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1431",
+    "label": "Sergeant",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_87.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1433",
+    "label": "Witch",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_89.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "237",
+    "label": "Bear Mask",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_9.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "238",
+    "label": "Panda Mask",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_9_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1443",
+    "label": "Big Apple",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_96.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1446",
+    "label": "Banananana",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_98.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1447",
+    "label": "Coolman",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_99.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3237",
+    "label": "Wood",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4044",
+    "label": "Tin Can",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_10.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3238",
+    "label": "Cloth",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4389",
+    "label": "Wrapping Paper",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_2_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3239",
+    "label": "Wires",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/10_3.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5322",
+    "label": "Season 6 Elite Ticket",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/13_0_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6424",
+    "label": "Season 7 Elite Ticket",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/13_0_6.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "247",
+    "label": "Bass Guitar",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2081",
+    "label": "Croissant",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_100.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2696",
+    "label": "Candy Caner",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_101.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3195",
+    "label": "Games for Love",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_107.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4219",
+    "label": "I Love Krum",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_107_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4474",
+    "label": "Spouse Splatter",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_107_3.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4064",
+    "label": "Climber",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_111.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4072",
+    "label": "Boarded",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_118.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4077",
+    "label": "VIP Peanut",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_122_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4078",
+    "label": "Lipstick",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_123.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4079",
+    "label": "Painter",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_124.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4080",
+    "label": "Red Tie",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_125.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4082",
+    "label": "Keyboard",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_127.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4083",
+    "label": "Foosballer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_128.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "831",
+    "label": "Jet Pack",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_13.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4087",
+    "label": "Mix Tape",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_132.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4088",
+    "label": "Stop Sign",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_133.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4092",
+    "label": "Krunkie Magnet",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_137.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4094",
+    "label": "Wheelie Bin",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_139.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4098",
+    "label": "Bulletproof Vest",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_143.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4105",
+    "label": "Back to skool",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_150.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4106",
+    "label": "Muncher",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_151.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4107",
+    "label": "Fire Fighter",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_152.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4108",
+    "label": "Fabulous Sailor",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_153.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4114",
+    "label": "Medal",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_159.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4775",
+    "label": "Medal I",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_159_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4120",
+    "label": "Book Worm",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_164.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4781",
+    "label": "Referee",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_173.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4782",
+    "label": "Toothy",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_174.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4783",
+    "label": "Zipper",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_175.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4785",
+    "label": "Outtage",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_177.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4807",
+    "label": "Bunny Suspenders",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_181.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "839",
+    "label": "Butterfly",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_19.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "861",
+    "label": "Pot'O'Gold",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_20.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5789",
+    "label": "Serious Bling",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_204.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5799",
+    "label": "Pouch",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_214.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5802",
+    "label": "Fully Caged",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_217.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5845",
+    "label": "Raindeer Brace",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_222.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6384",
+    "label": "Inspected",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_235.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6385",
+    "label": "A lil'Fishy",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_236.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6386",
+    "label": "Overachiever",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_237.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6391",
+    "label": "Krunker.io",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_242.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6398",
+    "label": "Keepers key",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_249.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1017",
+    "label": "Egg Basket",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_25.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6399",
+    "label": "Charged Up",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_250.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1465",
+    "label": "Skeleton Grip",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_34.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1466",
+    "label": "Spider Grip",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_34_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1467",
+    "label": "Sir HotDog",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_35.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1472",
+    "label": "Roman Shield",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_40.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3959",
+    "label": "Timeless Shield",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_40_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1684",
+    "label": "TTV Vest",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_58.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1752",
+    "label": "Butcher",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_61.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1753",
+    "label": "Scales",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_62.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1754",
+    "label": "Pauldrons",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_64.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2057",
+    "label": "Milk Chocolate",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_80.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2058",
+    "label": "White Chocolate",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_80_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2059",
+    "label": "Dark Chocolate",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_80_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2065",
+    "label": "Tehch Deck",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_86.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2068",
+    "label": "Slidehop 101",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_88.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2070",
+    "label": "Swipe Left",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_90.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3967",
+    "label": "Krunk to the Future",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_90_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2073",
+    "label": "Lil Buddy",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_92.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2076",
+    "label": "Skelly",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_95.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3971",
+    "label": "Endoskeleton-5",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_95_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3972",
+    "label": "Mech Frame",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_95_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2078",
+    "label": "Trophy",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_97.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3973",
+    "label": "Totally Normal",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_97_1.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2080",
+    "label": "Krunk Landing",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_99.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6407",
+    "label": "2004 Belt",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/6_71.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "493",
+    "label": "Goop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_100.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "504",
+    "label": "Tessalate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_111.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "506",
+    "label": "Poly Blush",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_113.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "508",
+    "label": "Marbled .50",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_115.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "925",
+    "label": "Turbo",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_119.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "933",
+    "label": "Emboss",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_121.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "934",
+    "label": "Spineless",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_122.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "935",
+    "label": "Gold Plated",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_123.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "947",
+    "label": "Shattered",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_128.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "958",
+    "label": "Lunar Nitro",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_129.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "963",
+    "label": "Retribution",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_130.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "969",
+    "label": "Crator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_132.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "973",
+    "label": "Violet",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_133.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "974",
+    "label": "Savaged",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_134.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "978",
+    "label": "AWM Federation",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_135.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "983",
+    "label": "Fairy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_137.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "990",
+    "label": "Nozomu",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_140.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1029",
+    "label": "Candy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_146.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1030",
+    "label": "Choc",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_147.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1031",
+    "label": "Pastel",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_148.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "87",
+    "label": "Scoped Elite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_15.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1080",
+    "label": "Vaporride",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_153.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1082",
+    "label": "Yurei",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_155.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1083",
+    "label": "Alligator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_156.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1085",
+    "label": "Jungle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_158.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1090",
+    "label": "Stickerbomb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_163.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "123",
+    "label": "Barbed Rifle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_18.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1111",
+    "label": "Metallic Swirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_184.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1112",
+    "label": "Tessilate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_185.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1113",
+    "label": "Bubblegum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_186.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1116",
+    "label": "Obsydian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_189.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1123",
+    "label": "Carbonfibre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_196.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1124",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_197.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1125",
+    "label": "Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_198.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2",
+    "label": "Reticle Blaze",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "126",
+    "label": "Olympus Rifle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_21.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1762",
+    "label": "Cranium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_220.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2128",
+    "label": "Seishin",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_245.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2136",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_253.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2140",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_257.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2142",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_259.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2143",
+    "label": "Pirate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_260.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2144",
+    "label": "Tsunami",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_261.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2145",
+    "label": "Hemp",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_262.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2147",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_264.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "166",
+    "label": "Tiger Bolt",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_27.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2583",
+    "label": "Ho-Ho",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_276.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2586",
+    "label": "Candy Cane",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_279.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "167",
+    "label": "Zebra Bolt",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_28.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2587",
+    "label": "Mistletoe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_280.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2589",
+    "label": "Festivity",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_282.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "170",
+    "label": "Sky Bolt",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_31.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3161",
+    "label": "O RLY?",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_311.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3268",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_342.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3269",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_343.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3272",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_346.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3273",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_347.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3276",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_350.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3281",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_355.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3283",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_357.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3284",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_358.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3285",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_359.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3286",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_360.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3293",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_367.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3294",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_368.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "287",
+    "label": "AWP Supersport",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_37.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3296",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_370.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4504",
+    "label": "Year of the Tiger",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_383.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4656",
+    "label": "Fuzzy Finale",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_390.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5343",
+    "label": "Dipped Blackout",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_408.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5372",
+    "label": "HBA",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_410.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5616",
+    "label": "Clouded",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_431.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5992",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_439.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5998",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_445.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5999",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_446.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6280",
+    "label": "3Lite Merf",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_457.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6307",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_462.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "403",
+    "label": "Polydrive",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_49.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "400",
+    "label": "Cherry Blossom",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_50.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "449",
+    "label": "Boneclaw",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_56.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "454",
+    "label": "Cascade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_61.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "459",
+    "label": "War Torn",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_66.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "476",
+    "label": "Fabrica",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_83.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "477",
+    "label": "Azazel",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_84.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "480",
+    "label": "Cracked",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_87.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "481",
+    "label": "Fire Stream",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_88.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "482",
+    "label": "Ripped Sun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_89.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "483",
+    "label": "Bliss Flow",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_90.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "486",
+    "label": "Galaxy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_93.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "492",
+    "label": "Paint Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_99.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "297",
+    "label": "Dual Seafarer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_3.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3596",
+    "label": "808s",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_109.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3598",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_111.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3599",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_112.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3602",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_115.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3603",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_116.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3606",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_119.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3611",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_124.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3613",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_126.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3614",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_127.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3615",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_128.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3616",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_129.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3623",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_136.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3624",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_137.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3626",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_139.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4520",
+    "label": "Tiger Warfare",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_145.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5354",
+    "label": "Dipped Blackout",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_153.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5649",
+    "label": "Sticker bomb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_161.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5652",
+    "label": "Clouded",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_164.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6094",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_170.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6100",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_176.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6101",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_177.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1536",
+    "label": "Kitta",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1555",
+    "label": "Metallic Swirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_21.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1556",
+    "label": "Tessilate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_22.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1557",
+    "label": "Bubblegum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_23.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1560",
+    "label": "Obsydian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_26.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1567",
+    "label": "Carbonfibre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_33.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1568",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_34.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1569",
+    "label": "Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_35.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1703",
+    "label": "Ocean",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_45.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1788",
+    "label": "Cranium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_47.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2281",
+    "label": "Orah",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_50.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2285",
+    "label": "Krunk Wet-Cannon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_54.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2448",
+    "label": "Stormy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_60.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2450",
+    "label": "Ducky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_62.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2451",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_63.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2455",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_67.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2457",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_69.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2458",
+    "label": "Pirate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_70.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2460",
+    "label": "Hemp",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_72.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2462",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_74.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2651",
+    "label": "Ho-Ho",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_79.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2654",
+    "label": "Candy Cane",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_82.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2655",
+    "label": "Mistletoe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_83.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2657",
+    "label": "Festivity",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_85.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3228",
+    "label": "Arctic Drake",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_95.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3584",
+    "label": "Sweet Delight",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_10_m0_97.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5588",
+    "label": "PowderBlue",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_112.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5861",
+    "label": "Wrapped up Deagle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_119.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2575",
+    "label": "Golden Moon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_11_17.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2710",
+    "label": "Relic Hunter",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_12.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4948",
+    "label": "Abyxxel",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_38.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5357",
+    "label": "Optimus-0",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_39.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6151",
+    "label": "Elite Mod Xbow",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_46.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1821",
+    "label": "Fish Warfare",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_14_5.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1598",
+    "label": "Metallic Swirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_105.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1599",
+    "label": "Tessilate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_106.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1600",
+    "label": "Bubblegum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_107.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1603",
+    "label": "Obsydian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_110.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1610",
+    "label": "Carbonfibre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_117.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1611",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_118.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1612",
+    "label": "Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_119.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1655",
+    "label": "Isotope Mk2",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_125.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1791",
+    "label": "Cranium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_129.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "433",
+    "label": "G2 Barb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_13.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1885",
+    "label": "Nebulous",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_135.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2300",
+    "label": "Digital Supremacy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_137.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2301",
+    "label": "Frosting",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_138.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2310",
+    "label": "Trick or Treat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_147.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2311",
+    "label": "Crusade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_148.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2321",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_158.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "436",
+    "label": "Triple Olympus",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_16.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2325",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_162.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2327",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_164.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2328",
+    "label": "Pirate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_165.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2332",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_169.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2662",
+    "label": "Ho-Ho",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_175.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2665",
+    "label": "Candy Cane",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_178.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2666",
+    "label": "Mistletoe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_179.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2668",
+    "label": "Festivity",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_181.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2833",
+    "label": "Confusions",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_188.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "422",
+    "label": "Reticle Burst",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "440",
+    "label": "G2 Tigris",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_20.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3669",
+    "label": "Trashy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_207.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "441",
+    "label": "Zebra Burst",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_21.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3672",
+    "label": "EMR-SPH",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_210.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3674",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_213.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3675",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_214.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3678",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_217.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3679",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_218.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "442",
+    "label": "Skyfarer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_22.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3682",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_221.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3687",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_226.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3689",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_228.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3690",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_229.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "443",
+    "label": "Commando Fade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_23.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3691",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_230.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3692",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_231.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3699",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_238.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3700",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_239.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3702",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_241.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4525",
+    "label": "Veteran",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_246.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5568",
+    "label": "linekill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_260.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5569",
+    "label": "cielo",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_261.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5661",
+    "label": "Clouded",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_274.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5862",
+    "label": "Wrapped up Famas",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_277.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6044",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_280.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6050",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_286.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6051",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_287.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6314",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_298.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "762",
+    "label": "Cascade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_30.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "767",
+    "label": "War Torn",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_35.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "784",
+    "label": "Fabrica",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_52.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "785",
+    "label": "Zebrik",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_53.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "788",
+    "label": "Cracked",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_56.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "789",
+    "label": "Fire Stream",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_57.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "790",
+    "label": "Ripped Sun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_58.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "791",
+    "label": "Bliss Flow",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_59.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "798",
+    "label": "Paint Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_66.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "799",
+    "label": "Slime Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_67.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1574",
+    "label": "Fireburst",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_81.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1575",
+    "label": "Moldavite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_82.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1579",
+    "label": "Scribble",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_15_86.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6169",
+    "label": "Snapple",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_16_36.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2870",
+    "label": "Released Kraken",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_20.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4799",
+    "label": "Freshly Picked",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_17_65.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3745",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_29.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3746",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_30.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3749",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_33.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3750",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_34.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3753",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_37.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3758",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_42.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3760",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_44.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3761",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_45.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3762",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_46.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3763",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_47.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3770",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_54.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3771",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_55.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3773",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_57.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5642",
+    "label": "Sticker bomb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_66.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6054",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_73.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6060",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_79.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6061",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_80.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6315",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_19_86.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "551",
+    "label": "Paint Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_101.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "552",
+    "label": "Goop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_102.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "561",
+    "label": "Heat-Tint",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_111.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "562",
+    "label": "Welded",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_112.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "949",
+    "label": "Auzora",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_116.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "979",
+    "label": "Soul",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_121.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "991",
+    "label": "Gilded",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_123.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1037",
+    "label": "Candy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_134.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1038",
+    "label": "Wiggle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_135.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1039",
+    "label": "Choc",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_136.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1131",
+    "label": "VAX",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_141.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1134",
+    "label": "Kanagawa",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_144.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1135",
+    "label": "AKS",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_145.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "129",
+    "label": "AR Wired",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_15.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1141",
+    "label": "Cheetah",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_151.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "132",
+    "label": "Olympus Rifle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_18.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1173",
+    "label": "Metallic Swirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_184.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1174",
+    "label": "Tessilate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_185.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1175",
+    "label": "Bubblegum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_186.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1178",
+    "label": "Obsydian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_189.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1185",
+    "label": "Carbonfibre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_196.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1186",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_197.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1187",
+    "label": "Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_198.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "14",
+    "label": "Blaze AK",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1647",
+    "label": "Delirium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_206.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1660",
+    "label": "Tropic Pop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_209.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1695",
+    "label": "Arctic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_211.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1706",
+    "label": "Fished",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_212.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1764",
+    "label": "Poseidon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_217.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "175",
+    "label": "Tiger Rifle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_22.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "176",
+    "label": "Zebra Rifle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_23.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2153",
+    "label": "Aurora",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_236.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2157",
+    "label": "Impostor",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_240.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2167",
+    "label": "Stormy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_250.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2169",
+    "label": "Ducky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_252.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2170",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_253.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2174",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_257.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2176",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_259.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "179",
+    "label": "Sky Rifle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_26.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2177",
+    "label": "Pirate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_260.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2179",
+    "label": "Hemp",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_262.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2181",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_264.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2593",
+    "label": "Ho-Ho",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_277.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2596",
+    "label": "Candy Cane",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_280.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2597",
+    "label": "Mistletoe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_281.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2599",
+    "label": "Festivity",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_283.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3307",
+    "label": "Toya",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_339.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3323",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_356.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3324",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_357.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3327",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_360.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3328",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_361.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3331",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_364.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3336",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_369.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3338",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_371.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3339",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_372.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3340",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_373.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3341",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_374.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3348",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_381.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3349",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_382.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3351",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_384.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4935",
+    "label": "Us",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_418.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5344",
+    "label": "Dipped Blackout",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_438.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5696",
+    "label": "Sticker bomb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_457.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "356",
+    "label": "Cygento",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_46.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5699",
+    "label": "Clouded",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_460.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5854",
+    "label": "Wrapped up AK",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_464.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6002",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_469.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "357",
+    "label": "Chartreuse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_47.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6008",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_475.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6009",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_476.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "358",
+    "label": "Tortobe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_48.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "359",
+    "label": "AK Octo",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_49.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6308",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_493.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "360",
+    "label": "Versate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_50.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "361",
+    "label": "Purpur",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_51.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "401",
+    "label": "Vapormoon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_58.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "402",
+    "label": "Tesselate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_59.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "511",
+    "label": "Boneclaw",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_60.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "516",
+    "label": "Cascade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_65.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "521",
+    "label": "War Torn",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_70.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "538",
+    "label": "Fabrica",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_88.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "542",
+    "label": "Cracked",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_92.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "543",
+    "label": "Fire Stream",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_93.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "544",
+    "label": "Ripped Sun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_94.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "545",
+    "label": "Bliss Flow",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_2_95.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6149",
+    "label": "RedTec",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_22_19.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5546",
+    "label": "Tangible Flavor",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_25_9.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6185",
+    "label": "SpaceBeeto",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_28_18.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5133",
+    "label": "B93re",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_28_5.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6070",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_29_11.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6071",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_29_12.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6224",
+    "label": "Aristocrat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_29_16.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6316",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_29_18.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6064",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_29_5.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5346",
+    "label": "Dipped Blackout",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m0_64.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "608",
+    "label": "Polymer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_102.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "612",
+    "label": "Parabellum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_106.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "613",
+    "label": "Poly Fade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_107.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "967",
+    "label": "Retro-cade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_113.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "977",
+    "label": "SMG Wired",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_115.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1047",
+    "label": "Candy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_121.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1048",
+    "label": "Wiggle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_122.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1049",
+    "label": "Choc",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_123.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1192",
+    "label": "Aquarium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_125.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1195",
+    "label": "Krunkstruct",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_128.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1196",
+    "label": "Bloodmoon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_129.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1201",
+    "label": "Green Waves",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_134.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1202",
+    "label": "Purple Waves",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_135.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1203",
+    "label": "Goddess",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_136.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "134",
+    "label": "SMG Barbed",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_14.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1207",
+    "label": "Kittle",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_140.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1232",
+    "label": "Metallic Swirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_165.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1233",
+    "label": "Tessilate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_166.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1234",
+    "label": "Bubblegum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_167.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "137",
+    "label": "SMG Lazarus",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_17.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1237",
+    "label": "Obsydian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_170.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1244",
+    "label": "Carbonfibre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_177.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1245",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_178.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1246",
+    "label": "Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_179.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1635",
+    "label": "Explora",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_187.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1661",
+    "label": "Cyclonic Charge",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_188.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1662",
+    "label": "Disco Kill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_189.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1774",
+    "label": "Cranium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_196.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "25",
+    "label": "SMG Blaze",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1812",
+    "label": "Tau",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_201.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1879",
+    "label": "Brainstorm",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_204.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2186",
+    "label": "Koi",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_207.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "184",
+    "label": "SMG Tigris",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_21.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2188",
+    "label": "Yingyang",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_210.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2193",
+    "label": "Serpentine",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_215.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "185",
+    "label": "SMG Safari",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_22.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2199",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_221.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2203",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_225.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2205",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_227.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2206",
+    "label": "Pirate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_228.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2208",
+    "label": "Hemp",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_230.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2210",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_232.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2568",
+    "label": "Natrix",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_239.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2603",
+    "label": "Ho-Ho",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_242.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2606",
+    "label": "Candy Cane",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_245.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2607",
+    "label": "Mistletoe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_246.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2609",
+    "label": "Festivity",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_248.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "188",
+    "label": "UMP Atmos",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_25.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2703",
+    "label": "Zander",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_251.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2866",
+    "label": "Abyssal Storm",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_262.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2915",
+    "label": "Medic 87",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_264.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3216",
+    "label": "Mother's Den",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_275.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "308",
+    "label": "SMG Iris",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_29.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3377",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_293.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3378",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_294.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3381",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_297.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3382",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_298.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "309",
+    "label": "SMG Venom",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_30.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3385",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_301.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3390",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_306.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3392",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_308.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3393",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_309.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "310",
+    "label": "SMG Wingman",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_31.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3394",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_310.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3395",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_311.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3402",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_318.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3403",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_319.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3405",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_321.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4511",
+    "label": "StarPoint",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_330.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5348",
+    "label": "Dipped Blackout",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_352.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5476",
+    "label": "Sprayer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_359.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5482",
+    "label": "Retro Strike",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_365.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5624",
+    "label": "Sticker bomb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_373.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5855",
+    "label": "Wrapped up SMG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_378.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6012",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_382.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6018",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_388.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6019",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_389.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6242",
+    "label": "Mass Produced",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_390.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6309",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_400.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "331",
+    "label": "UMP Cygentro",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_48.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "332",
+    "label": "Chartreuse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_49.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "333",
+    "label": "UMP Tortobe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_50.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "334",
+    "label": "UMP Octo",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_51.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "335",
+    "label": "UMP Versate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_52.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "336",
+    "label": "SMG Purpur",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_53.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "564",
+    "label": "Boneclaw",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_58.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "569",
+    "label": "Cascade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_63.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "574",
+    "label": "War Torn",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_68.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "590",
+    "label": "Fabrica",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_84.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "593",
+    "label": "Cracked",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_87.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "594",
+    "label": "Fire Stream",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_88.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "595",
+    "label": "Ripped Sun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_89.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "596",
+    "label": "Bliss Flow",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_90.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "602",
+    "label": "Paint Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_96.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "603",
+    "label": "Goop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_4_97.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1327",
+    "label": "Metallic Swirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_115.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1328",
+    "label": "Tessilate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_116.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1329",
+    "label": "Bubblegum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_117.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1332",
+    "label": "Obsydian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_120.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1339",
+    "label": "Carbonfibre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_127.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1340",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_128.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1341",
+    "label": "Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_129.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1663",
+    "label": "Line Breaker",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_135.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1697",
+    "label": "Sunset claw",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_137.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "139",
+    "label": "Barbed Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_14.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1776",
+    "label": "Cranium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_140.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2214",
+    "label": "Basilisk",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_144.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2215",
+    "label": "Golden Future",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_145.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2217",
+    "label": "Zephyr",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_147.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2218",
+    "label": "Vince",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_148.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2222",
+    "label": "Cyberkitty",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_152.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2223",
+    "label": "Harcollicegen",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_153.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2226",
+    "label": "Obsessed",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_156.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2232",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_162.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2236",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_166.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2238",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_168.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "142",
+    "label": "REV Olympus",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_17.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2243",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_173.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2244",
+    "label": "Merlot",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_174.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2571",
+    "label": "Octopod",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_178.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2613",
+    "label": "Ho-Ho",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_181.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2616",
+    "label": "Candy Cane",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_184.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2617",
+    "label": "Mistletoe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_185.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2619",
+    "label": "Festivity",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_187.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2705",
+    "label": "Pocket Cannon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_190.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2828",
+    "label": "Legionnaire",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_199.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "35",
+    "label": "Blaze Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2867",
+    "label": "Engulfed",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_201.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "193",
+    "label": "Tiger Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_21.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "194",
+    "label": "Zebra Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_22.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3419",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_227.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3420",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_228.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3423",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_231.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3424",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_232.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3427",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_235.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3432",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_240.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3434",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_242.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3435",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_243.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3436",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_244.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3437",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_245.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "197",
+    "label": "Sky Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_25.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3444",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_252.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3445",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_253.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3447",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_255.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5350",
+    "label": "Dipped Blackout",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_293.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5485",
+    "label": "waterrmeeeelon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_294.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5493",
+    "label": "Blue Fiber",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_302.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5676",
+    "label": "Sticker bomb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_308.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5678",
+    "label": "Clouded",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_310.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6022",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_320.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6028",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_326.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6029",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_327.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "616",
+    "label": "Cracked",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_33.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6134",
+    "label": "Pro Build",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_337.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6310",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_338.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "617",
+    "label": "Fire Stream",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_34.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "618",
+    "label": "Ripped Sun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_35.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "619",
+    "label": "Bliss Flow",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_36.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "625",
+    "label": "Paint Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_42.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "626",
+    "label": "Slime Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_43.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "634",
+    "label": "Boneclaw",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_51.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "639",
+    "label": "Cascade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_56.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "644",
+    "label": "War Torn",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_61.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "660",
+    "label": "Fabrica",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_77.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "980",
+    "label": "RevBG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_82.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1003",
+    "label": "Aurum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_86.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1302",
+    "label": "Depth",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_90.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1306",
+    "label": "Pearlescent",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_94.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "144",
+    "label": "Coach Barb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_13.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "147",
+    "label": "SG Olympus",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_16.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "45",
+    "label": "Twin Blaze",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "202",
+    "label": "SG Tigris",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_21.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "203",
+    "label": "Safaris",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_22.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "206",
+    "label": "Sky Pump",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_25.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "404",
+    "label": "Safran",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_29.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "405",
+    "label": "Purple Rain",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_30.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "406",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_31.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "407",
+    "label": "Spectrum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_32.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "409",
+    "label": "Blunderbuss",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_34.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1779",
+    "label": "Cranium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_108.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2249",
+    "label": "Track 73",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_113.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2250",
+    "label": "Silver Teal",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_114.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2251",
+    "label": "RY4-S",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_115.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2253",
+    "label": "Prehistoric",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_117.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2260",
+    "label": "Lotus",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_124.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2266",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_130.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2270",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_134.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2272",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_136.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2273",
+    "label": "Pirate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_137.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2277",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_141.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2623",
+    "label": "Ho-Ho",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_148.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "901",
+    "label": "Pink Drip",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_15.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2626",
+    "label": "Candy Cane",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_151.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2627",
+    "label": "Mistletoe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_152.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2629",
+    "label": "Festivity",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_154.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "902",
+    "label": "Blue Drip",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_16.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3452",
+    "label": "Tech2",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_174.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "904",
+    "label": "Olive",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_18.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3465",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_187.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3466",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_188.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "905",
+    "label": "Spruce",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_19.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3469",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_191.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3470",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_192.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3473",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_195.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "906",
+    "label": "Dijon",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_20.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3478",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_200.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3480",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_202.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3481",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_203.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3482",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_204.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3483",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_205.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3490",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_212.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3491",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_213.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3493",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_215.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4421",
+    "label": "Shattered Glass",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_224.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4516",
+    "label": "Jade Tiger",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_227.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5351",
+    "label": "Digiarmor",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_254.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5504",
+    "label": "Deep",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_264.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5633",
+    "label": "Sticker bomb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_269.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5635",
+    "label": "Clouded",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_271.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6032",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_281.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6038",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_287.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6039",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_288.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6144",
+    "label": "Wide",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_298.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "889",
+    "label": "Mosaik",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_3.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6311",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_300.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "917",
+    "label": "Picasso",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_31.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "918",
+    "label": "Snowy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_32.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "919",
+    "label": "Hazard",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_33.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "920",
+    "label": "Cerise",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_34.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "956",
+    "label": "Quarantine",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_39.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "890",
+    "label": "Kiason",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_4.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "971",
+    "label": "HotRod",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_44.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1055",
+    "label": "Candy",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_51.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1252",
+    "label": "Halogen",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_55.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1257",
+    "label": "Exponentiat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_60.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1262",
+    "label": "Mech Rainbow",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_65.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1280",
+    "label": "Metallic Swirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_83.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1281",
+    "label": "Tessilate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_84.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1282",
+    "label": "Bubblegum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_85.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1285",
+    "label": "Obsydian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_88.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1292",
+    "label": "Carbonfibre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_95.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1293",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_96.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1294",
+    "label": "Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m0_97.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1379",
+    "label": "Metallic Swirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_102.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1380",
+    "label": "Tessilate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_103.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1381",
+    "label": "Bubblegum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_104.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1384",
+    "label": "Obsydian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_107.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1391",
+    "label": "Carbonfibre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_114.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1392",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_115.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1393",
+    "label": "Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_116.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1650",
+    "label": "Tiger Cascade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_122.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1781",
+    "label": "Knightingale",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_126.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1782",
+    "label": "Cranium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_127.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2382",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_139.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2386",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_143.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2388",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_145.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2389",
+    "label": "Pirate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_146.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "151",
+    "label": "Olympus LMG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_15.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2393",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_150.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2633",
+    "label": "Ho-Ho",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_155.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2636",
+    "label": "Candy Cane",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_158.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2637",
+    "label": "Mistletoe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_159.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2639",
+    "label": "Festivity",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_161.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3495",
+    "label": "Jeager",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_175.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "211",
+    "label": "Tiger LMG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_19.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3512",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_192.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3513",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_193.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3516",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_196.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3517",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_197.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "55",
+    "label": "Blaze LMG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "212",
+    "label": "Zebra LMG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_20.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3520",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_200.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3525",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_205.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3527",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_207.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3528",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_208.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3529",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_209.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3530",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_210.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3537",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_217.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3538",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_218.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3540",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_220.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4518",
+    "label": "Royal Tiger",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_221.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4411",
+    "label": "Street Maniac",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_222.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "215",
+    "label": "Sky LMG",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_23.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5688",
+    "label": "Sticker bomb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_238.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6074",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_246.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6080",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_252.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6081",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_253.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6312",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_257.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "665",
+    "label": "Fabrica",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_29.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "669",
+    "label": "Cracked",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_33.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "670",
+    "label": "Fire Stream",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_34.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "671",
+    "label": "Ripped Sun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_35.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "672",
+    "label": "Bliss Flow",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_36.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "678",
+    "label": "Paint Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_42.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "679",
+    "label": "Slime Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_43.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "686",
+    "label": "Boneclaw",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_50.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "691",
+    "label": "Cascade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_55.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "696",
+    "label": "War Torn",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_60.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1063",
+    "label": "Choc",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_7_80.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "153",
+    "label": "Barbed Auto",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_14.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "156",
+    "label": "Olympus MMA",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_17.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "65",
+    "label": "Blaze Auto",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "220",
+    "label": "Tiger MMA",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_21.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "221",
+    "label": "Zebra MMA",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_22.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "224",
+    "label": "Sky AUTO",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_25.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "381",
+    "label": "MMA Cygneto",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_43.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "382",
+    "label": "M14 Chartreuse",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_44.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "383",
+    "label": "MMA Tortobe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_45.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "384",
+    "label": "MMA Octo",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_46.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "385",
+    "label": "MMA Versate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_47.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "386",
+    "label": "MMA Purpur",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_48.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "391",
+    "label": "Black Ice",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_53.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2645",
+    "label": "Candy Cane",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_101.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2646",
+    "label": "Mistletoe",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_102.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2648",
+    "label": "Festivity",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_104.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3227",
+    "label": "Cockatrice",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_122.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3551",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_132.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3552",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_133.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3555",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_136.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3556",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_137.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3559",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_140.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3564",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_145.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3566",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_147.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3567",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_148.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3568",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_149.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3569",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_150.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3576",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_157.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3577",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_158.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "3579",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_160.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5353",
+    "label": "Dipped Blackout",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_179.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5667",
+    "label": "Sticker bomb",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_188.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "5669",
+    "label": "Clouded",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_190.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6084",
+    "label": "Volcanic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_196.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6090",
+    "label": "Binary Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_202.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6091",
+    "label": "Future Tech",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_203.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6117",
+    "label": "Voltaic",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_204.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "6313",
+    "label": "Raid",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_209.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1514",
+    "label": "Metallic Swirl",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_22.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1515",
+    "label": "Tessilate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_23.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1516",
+    "label": "Bubblegum",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_24.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1519",
+    "label": "Obsydian",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_27.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1526",
+    "label": "Carbonfibre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_34.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1527",
+    "label": "Cobra",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_35.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1528",
+    "label": "Python",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_36.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1651",
+    "label": "Flamer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_45.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1786",
+    "label": "Cranium",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_57.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1816",
+    "label": "Watercolours",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_58.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "1882",
+    "label": "Sly",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_61.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2346",
+    "label": "Blood Diamond",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_63.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2347",
+    "label": "MKT",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_64.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2348",
+    "label": "Glorious",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_65.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2349",
+    "label": "Laminar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_66.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2350",
+    "label": "Prey",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_67.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2355",
+    "label": "Sweety",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_72.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2359",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_76.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2363",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_80.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2365",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_82.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2368",
+    "label": "Hemp",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_85.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2370",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_87.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2545",
+    "label": "Ghen",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_93.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2573",
+    "label": "Malignance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_97.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2642",
+    "label": "Ho-Ho",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_8_m0_98.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4012",
+    "label": "Radar",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_100.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4015",
+    "label": "Spooky Festival",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_103.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4016",
+    "label": "Shiplap",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_104.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4019",
+    "label": "Alienator",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_107.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4024",
+    "label": "Skullz N Bulletz",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_112.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4026",
+    "label": "Krystallizer",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_114.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4027",
+    "label": "Psycho Loop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_115.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4028",
+    "label": "Flower Dance",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_116.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4029",
+    "label": "Prisma",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_117.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4036",
+    "label": "Secret Level",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_124.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4037",
+    "label": "Starfrost",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_125.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4039",
+    "label": "Book of Shadows",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_127.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "158",
+    "label": "Barbed Launcher",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_13.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "161",
+    "label": "Olympus Launcher",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_16.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "76",
+    "label": "Blaze RL",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_2.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "229",
+    "label": "Tiger Rocket",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_20.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "230",
+    "label": "Zebra Launcher",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_21.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "233",
+    "label": "Sky Launcher",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_24.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "712",
+    "label": "Fabrica",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_29.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "715",
+    "label": "Cracked",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_32.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "716",
+    "label": "Fire Stream",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_33.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "717",
+    "label": "Ripped Sun",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_34.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "718",
+    "label": "Bliss Flow",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_35.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "719",
+    "label": "Kenzo",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_36.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "725",
+    "label": "Paint Spill",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_42.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "726",
+    "label": "Goop",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_43.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "731",
+    "label": "Boneclaw",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_48.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "736",
+    "label": "Cascade",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_53.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "741",
+    "label": "War Torn",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_58.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2402",
+    "label": "Emoji",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_79.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2406",
+    "label": "Rich",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_83.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2408",
+    "label": "Rainbow Sky",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_85.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2409",
+    "label": "Pirate",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_86.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "2413",
+    "label": "Kunzite",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_90.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  },
+  {
+    "id": "4011",
+    "label": "Sugar Coat",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_9_99.png?build=4FgX6d931s0EzfUWGtZ4QkiJglWpDl5V",
+    "rarity": "epic"
+  }
+]

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<script>
+  const sound = new Audio("sounds/tick.mp3");
+  //Load sound file when page is loaded
+  function playSound() {
+    sound.play();
+  }
+</script>
+<!--Define playSound function to play "tick" effect-->
+<html>
+  <head>
+    <title>My Wishlist</title>
+    <link rel="icon" href="images/triggerman.png" type="image/icon type" />
+    <link rel=stylesheet type=text/css href=style.css />
+    <!--Link to CSS-->
+  </head>
+  <body>
+    <nav class="navbar">
+      <a
+        href="index.html"
+        class="navbar-home"
+        title="Home"
+        onmouseover="playSound()"
+        >KrunkList</a
+      >
+      <!--Nav Bar Link 1-->
+      <a
+        href="#"
+        class="nav-link"
+        id="remove-all-link"
+        title="Remove All Wishlisted Items"
+        onmouseover="playSound()"
+        onclick="if (confirm('Are you sure you want to remove ALL your Wishlisted items?')) localStorage.clear(), window.location.reload()"
+        >Remove All
+      </a>
+      <div
+        class="slider-container"
+        style="margin-left: 50%; margin-right: -70px"
+      >
+        <a
+          href="#"
+          class="nav-link"
+          id="reset-slider"
+          style="margin-right: 10px; white-space: nowrap"
+          title="Click to Reset"
+          onmouseover="playSound()"
+        >
+          GUI:
+        </a>
+        <div
+          id="slider-value"
+          style="color: white; margin-right: 10px; font-size: 18px"
+        ></div>
+        <input type="range" min="100" max="300" value="160" id="slider" />
+      </div>
+      <!--Remove All button-->
+      <ul class="navbar-links">
+        <li>
+          <a
+            href="index.html"
+            class="nav-link"
+            title="View All Items"
+            style="white-space: nowrap"
+            onmouseover="playSound()"
+            >Item Gallery</a
+          >
+        </li>
+        <li>
+          <a
+            href="wishlist.html"
+            class="nav-link"
+            title="View My Wishlist"
+            style="white-space: nowrap"
+            onmouseover="playSound()"
+            >My Wishlist</a
+          >
+        </li>
+      </ul>
+    </nav>
+    <div id="myWishlistGallery" class="myWishlistGallery">
+      <div id="message" class="message"></div>
+      <!--Empty Wishlist message spawns here-->
+    </div>
+    <!--Create the main Gallery Div-->
+    <script type="module" src="loadWishlist.js"></script>
+    <!--Run loadWishlist.js-->
+    <footer>
+      <div class="footer">
+        <div class="footer-icon" style="margin-left: 10px">
+          <a
+            href="https://krunker.io/social.html?p=profile&q=qwest500"
+            target="_blank"
+          >
+            <img src="images/ak.png" alt="YouTube" title="Qwest500's Profile" />
+            <!--Create Youtube Channel Icon-->
+          </a>
+        </div>
+
+        <div class="footer-content">
+          <p>&copy; KrunkList 2023</p>
+        </div>
+
+        <div class="footer-icon">
+          <a
+            href="https://www.youtube.com/channel/UCWS7B_k79sR3Axu8ciF6W_Q"
+            target="_blank"
+          >
+            <img
+              src="images/YTicon.png"
+              alt="YouTube"
+              title="Qwest500's YouTube"
+            />
+            <!--Create Youtube Channel Icon-->
+          </a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
