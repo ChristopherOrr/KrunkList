@@ -1,0 +1,182 @@
+<!-- A Regex web application to extract Krunker.io Item Labels, IDs and URLs from HTML-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Item Property Extractor</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        display: flex;
+        height: 100vh;
+      }
+      .left {
+        flex: 2;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+      .right {
+        flex: 1;
+        padding: 20px;
+        border-left: 1px solid #ccc;
+        box-sizing: border-box;
+        background-color: #f9f9f9;
+      }
+      textarea,
+      input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        box-sizing: border-box;
+        font-family: monospace;
+        font-size: 14px;
+      }
+      label {
+        display: block;
+        margin-top: 10px;
+      }
+      input[readonly] {
+        background-color: #d3d3d370;
+        color: #6c757d;
+        cursor: not-allowed;
+        border: 1px solid #ced4da;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="left">
+        <h2>Raw HTML Input</h2>
+        <textarea
+          id="rawText"
+          rows="10"
+          placeholder="Paste Krunker.io ItemsList html here..."
+        ></textarea>
+
+        <h2 id="resultsTitle">Extracted Results</h2>
+        <textarea
+          id="outputText"
+          rows="10"
+          readonly
+          placeholder="Results will appear here..."
+        ></textarea>
+      </div>
+
+      <div class="right">
+        <h2>Extraction Options</h2>
+        <label
+          ><input type="radio" name="extractType" value="name" checked />
+          Extract Item Labels</label
+        >
+        <label
+          ><input type="radio" name="extractType" value="id" /> Extract Item
+          IDs</label
+        >
+        <label
+          ><input type="radio" name="extractType" value="url" /> Extract Image
+          URLs</label
+        >
+
+        <h2>Regex Settings</h2>
+        <label for="precededBy">Preceded-by:</label>
+        <input type="text" id="precededBy" value='0.1)">' readonly />
+
+        <label for="followedBy">Followed-by:</label>
+        <input type="text" id="followedBy" value="<div" readonly />
+      </div>
+    </div>
+
+    <script>
+      const precededInput = document.getElementById("precededBy");
+      const followedInput = document.getElementById("followedBy");
+      const radios = document.getElementsByName("extractType");
+      const rawTextInput = document.getElementById("rawText");
+      const outputBox = document.getElementById("outputText");
+      const resultsTitle = document.getElementById("resultsTitle");
+
+      // Regex base pattern for ID and Label extractions
+      const basePattern =
+        "[a-zA-ZÀ-ÖØ-öø-ÿ0-9.,?\\-\\/()'’Дг*#™!:_;+^_<>&$\\s]+";
+
+      // When Radio Button input changes, update preceded/followed values and run extraction
+      radios.forEach((radio) => {
+        radio.addEventListener("change", () => {
+          if (radio.checked) {
+            if (radio.value === "name") {
+              precededInput.value = '0.1)">';
+              followedInput.value = "<div";
+            } else if (radio.value === "id") {
+              precededInput.value = "viewItem(";
+              followedInput.value = ')">';
+            } else if (radio.value === "url") {
+              precededInput.value = "https://assets.krunker.io/textures";
+              followedInput.value = '" or &';
+            }
+            performExtraction();
+          }
+        });
+      });
+
+      // Run extraction automatically on any input changes
+      [rawTextInput, precededInput, followedInput].forEach((el) =>
+        el.addEventListener("input", performExtraction)
+      );
+
+      // Escape Regex syntax
+      function escapeRegex(str) {
+        return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&");
+      }
+
+      /* function performExtraction()
+       *
+       * Extract any text from the HTML input which matches the selected Regex Pattern
+       */
+      function performExtraction() {
+        // Define inputs
+        const rawText = rawTextInput.value;
+        const preceded = precededInput.value;
+        const followed = followedInput.value;
+        const selectedType = Array.from(radios).find((r) => r.checked).value;
+
+        try {
+          let fullPattern;
+
+          if (selectedType === "url") {
+            fullPattern =
+              "(" + escapeRegex(preceded) + '[^"&]+?)' + '(?="|&quot;)'; // URL extraction pattern which includes CSS URLs for Sprays
+          } else {
+            fullPattern =
+              escapeRegex(preceded) +
+              "(" +
+              basePattern +
+              ")" +
+              escapeRegex(followed);
+          }
+
+          // Define Regex extraction function
+          const regex = new RegExp(fullPattern, "g");
+          // Use g flag to keep track of place in rawText using RegExp's internal lastIndex property
+
+          const results = []; // Holds all successful matches
+          let match;
+
+          // Run Regex extraction on HTML input
+          while ((match = regex.exec(rawText)) !== null) {
+            results.push(match[1].trim()); // Save each match to results array and remove any trailing whitespace
+          }
+
+          outputBox.value = results.join("\n"); // Add line break between each result
+          resultsTitle.textContent = `Extracted Results: (${results.length})`; // Display # of results
+        } catch (e) {
+          outputBox.value = "Regex error: " + e.message;
+          resultsTitle.textContent = "Extracted Results: (0)";
+        }
+      }
+    </script>
+  </body>
+</html>

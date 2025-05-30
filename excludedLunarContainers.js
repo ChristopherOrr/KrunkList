@@ -1,6 +1,6 @@
 /* excludedLunarContainers.js
  *
- * Stores the items to be excluded from being assigned a Lunar-Button-Container
+ * Stores the items to be excluded from being assigned a Lunar-Button-Container (three buttons)
  * @params: None
  * @returns: None
  */

@@ -1,0 +1,89 @@
+<!-- A simple web application to convert tab delimited data into JSON -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tab-Delimited to JSON Converter</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        padding: 20px;
+      }
+      textarea {
+        width: 100%;
+        height: 200px;
+        font-family: monospace;
+        margin-top: 10px;
+      }
+      input,
+      button,
+      select {
+        margin-top: 10px;
+      }
+      pre {
+        background: #f0f0f0;
+        padding: 10px;
+        margin-top: 10px;
+        overflow-x: auto;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Tab-Delimited to JSON Converter (URL, Label, ID Format)</h2>
+
+    <label>Paste from Excel (URL, Label, ID):</label>
+    <textarea id="csvInput" placeholder="URL	Label	ID"></textarea>
+
+    <label>Rarity:</label>
+    <select id="rarityInput">
+      <option value="nft">NFT</option>
+      <option value="unobtainable">Unobtainable</option>
+      <option value="contraband">Contraband</option>
+      <option value="relic">Relic</option>
+      <option value="legendary">Legendary</option>
+      <option value="epic">Epic</option>
+      <option value="rare" selected>Rare</option>
+      <option value="uncommon">Uncommon</option>
+    </select>
+
+    <br />
+    <button onclick="convertCSV()">Convert to JSON</button>
+    <button onclick="copyJSON()">Copy JSON</button>
+
+    <h3>Result:</h3>
+    <pre id="jsonOutput"></pre>
+
+    <script>
+      let lastJSON = [];
+
+      // Convert CSV Input to JSON
+      function convertCSV() {
+        const input = document.getElementById("csvInput").value.trim();
+        const rarity = document.getElementById("rarityInput").value.trim();
+        const lines = input.split("\n");
+        const items = [];
+
+        for (let line of lines) {
+          const [url, label, id] = line.split("\t").map((x) => x.trim());
+          if (url && label && id) {
+            items.push({ id, label, url, rarity });
+          }
+        }
+
+        lastJSON = items;
+        document.getElementById("jsonOutput").textContent = JSON.stringify(
+          items,
+          null,
+          2
+        );
+      }
+
+      // Copy JSON output to clipboard
+      function copyJSON() {
+        const outputText = document.getElementById("jsonOutput").textContent;
+        navigator.clipboard.writeText(outputText);
+      }
+    </script>
+  </body>
+</html>

@@ -1,32 +1,32 @@
+/* Declare Font Family */
 @font-face {
-  /* Declare Font Family */
   font-family: krunker;
   src: url(fonts/FFFForward.ttf);
 }
 
+/* Title Image Container */
 .navBar {
-  /* Title Image Container */
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+/* Resize and add a transition */
 .titleImage {
-  /* Resize and add a transition */
   width: 300px;
   height: auto;
   margin: 0 10px;
   transition: transform 0.2s ease-in-out;
 }
 
+/* Configure hover transformation and filter */
 .titleImage:hover {
-  /* Configure hover transformation and filter */
   transform: scale(1.05);
   filter: brightness(0.7);
 }
 
+/* Item Text Properties */
 .item h1 {
-  /* Item Text Properties */
   font-family: krunker;
   position: absolute;
   bottom: 0px;
@@ -39,16 +39,16 @@
   z-index: 1;
 }
 
+/* Whole Gallery */
 .gallery {
-  /* Whole Gallery */
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   padding-top: 50px;
   height: auto; /* set the height of the parent container 1530px */
-  /*overflow: hidden; /* hide any parts of the image that extend beyond the parent container */
 }
 
+/* myWishlistGallery ID Formatting */
 #myWishlistGallery {
   display: flex;
   flex-wrap: wrap;
@@ -56,6 +56,7 @@
   padding-top: 50px;
 }
 
+/* Properties for Empty Wishlist Message in loadWishlist.js */
 .message {
   font-family: krunker;
   font-size: 50px;
@@ -68,8 +69,8 @@
   color: rgba(41, 41, 41, 0.425);
 }
 
+/* Properties for each Item Card Div */
 .item {
-  /* Properties for each Item "Card" Div */
   background-color: rgba(0, 0, 0, 0.288);
   border: 4px solid #ccc;
   border-radius: 10px;
@@ -84,35 +85,35 @@
     transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+/* Item Fade Animation Values */
 .item.fade-in {
   opacity: 1;
   transform: translateY(0) scale(1);
 }
 
+/* Properties for an Image within an Item Class */
 .item img {
-  /* Properties for an Image within an Item Class */
   display: block;
   width: 160px;
   height: 160px;
   object-fit: cover;
 }
 
-/* Rarities */
-
+/* NFT Rarity Properties */
 .nft,
 .nft h1 {
   color: #f3b8ff;
   border-color: #f3b8ff;
 }
 
-/* Animate the Unob Border */
+/* Unobtainable Rarity Properties */
 .unob,
 .unob h1 {
   animation: flash 0.7s ease-out infinite;
 }
 
+/* Animate the border of .unob items */
 @keyframes flash {
-  /* Animate the border of .unob items */
   0% {
     border-color: yellow;
     color: yellow;
@@ -135,10 +136,7 @@
   }
 }
 
-.pauseAnimation {
-  animation-play-state: paused;
-}
-
+/* Contraband Rarity Properties */
 .contra,
 .contra h1 {
   border-color: #111111;
@@ -146,46 +144,51 @@
   text-shadow: 0.5px 0.5px 1px rgb(206, 206, 206);
 }
 
+/* Relic Rarity Properties */
 .relic,
 .relic h1 {
   border-color: #ed4242;
   color: #ed4242;
 }
 
+/* Legendary Rarity Properties */
 .legendary,
 .legendary h1 {
   border-color: #fbc02d;
   color: #fbc02d;
 }
 
+/* Epic Rarity Properties */
 .epic,
 .epic h1 {
   border-color: #e040fb;
   color: #e040fb;
 }
 
+/* Rare Rarity Properties */
 .rare,
 .rare h1 {
   border-color: #2196f3;
   color: #2196f3;
 }
 
+/* Uncommon Rarity Properties */
 .uncommon,
 .uncommon h1 {
   border-color: #b2f252;
   color: #b2f252;
 }
 
+/* Website Body Properties  */
 body {
-  /* Website Body Properties  */
   background-color: #302e2df3;
   background-image: url("images/bgLogo.png");
   background-repeat: repeat;
   background-size: 100px 100px;
 }
 
+/* Can be used to center an object */
 .centerBottom {
-  /* Can be used to center an object */
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -195,8 +198,8 @@ body {
   top: 85%;
 }
 
+/* Can be used to center an object */
 .centerTop {
-  /* Can be used to center an object */
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -206,8 +209,8 @@ body {
   top: 6%;
 }
 
+/* Scrollbar properties */
 ::-webkit-scrollbar {
-  /* Scrollbar properties */
   width: 10px;
 }
 
@@ -220,6 +223,7 @@ body {
   border-radius: 10px;
 }
 
+/* Styling for Items within a Default Button Container */
 .item .default-button-container {
   position: absolute;
   bottom: 50%;
@@ -239,6 +243,7 @@ body {
   background-color: rgba(0, 0, 0, 0.527);
 }
 
+/* Styling for Items within an Excluded Button Container */
 .item .excluded-button-container {
   position: absolute;
   bottom: 50%;
@@ -258,6 +263,7 @@ body {
   background-color: rgba(0, 0, 0, 0.527);
 }
 
+/* General Button Styling */
 .button {
   font-family: krunker;
   border: none;
@@ -269,6 +275,7 @@ body {
   transition: transform 0.2s ease-in-out;
 }
 
+/* removeButton Styling */
 .removeButton {
   font-family: krunker;
   border: none;
@@ -280,6 +287,7 @@ body {
   transition: transform 0.2s ease-in-out;
 }
 
+/* addToWishlistButton Styling */
 .addToWishlistButton {
   font-family: krunker;
   font-size: 75%;
@@ -292,6 +300,7 @@ body {
   transition: transform 0.2s ease-in-out;
 }
 
+/* inWishlistButton Styling */
 .inWishlistButton {
   font-family: krunker;
   font-size: 75%;
@@ -303,6 +312,7 @@ body {
   margin: 4px 0;
 }
 
+/* cannotBeSold Button Styling */
 .cannotBeSold {
   font-family: krunker;
   font-size: 115%;
@@ -315,21 +325,25 @@ body {
   opacity: 75%;
 }
 
+/* General Button Hover Animation */
 .button:hover {
   transform: scale(1.05);
   background-color: #242221f3;
 }
 
+/* Remove Button Hover Animation */
 .removeButton:hover {
   transform: scale(1.05);
   background-color: #743f3ff3;
 }
 
+/* addToWishlistButton Hover Animation */
 .addToWishlistButton:hover {
   transform: scale(1.05);
   background-color: #242221f3;
 }
 
+/* Navbar Styling */
 .navbar {
   position: fixed;
   top: 0;
@@ -348,6 +362,7 @@ body {
   overflow-x: hidden;
 }
 
+/* Navbar Logo Animation */
 .navbar-home {
   font-size: 24px;
   font-weight: bold;
@@ -358,11 +373,12 @@ body {
   transition: text-shadow 0.3s ease; /* Smooth transition for the glow effect */
 }
 
-/* Glow effect on hover */
+/* Navbar glow effect on hover */
 .navbar-home:hover {
   text-shadow: 0 0 20px white;
 }
 
+/* Search Bar Styling */
 .navbar-search {
   font-family: krunker;
   list-style: none;
@@ -374,7 +390,7 @@ body {
   background-color: #5f5f5f;
 }
 
-/* Default Search Bar placeholder color */
+/* Search Bar placeholder Styling */
 .navbar-search::placeholder {
   color: white;
   transition: color 0.2s;
@@ -385,20 +401,18 @@ body {
   color: grey;
 }
 
+/* Remove All Button Styling */
 #remove-all-link {
   position: absolute;
   margin-left: 42%;
 }
 
+/* Remove All Hover Animation */
 #remove-all-link:hover {
   color: rgb(128, 24, 24);
 }
 
-#guiLabel {
-  position: absolute;
-  margin-left: 42%;
-}
-
+/* Navbar Links Group Styling */
 .navbar-links {
   display: flex;
   list-style: none;
@@ -406,6 +420,7 @@ body {
   padding: 0;
 }
 
+/* Individual Navbar Link Styling */
 .nav-link {
   font-size: 18px;
   color: rgb(255, 255, 255);
@@ -415,10 +430,18 @@ body {
   margin-left: -10px;
 }
 
+/* Individual Navbar Link Hover Animation */
 .nav-link:hover {
   color: #666;
 }
 
+/* guiLabel ID Positioning */
+#guiLabel {
+  position: absolute;
+  margin-left: 42%;
+}
+
+/* Reset GUI Button Styling */
 .guiLabel {
   font-size: 18px;
   color: rgb(255, 255, 255);
@@ -428,6 +451,7 @@ body {
   margin-right: 50px;
 }
 
+/* Footer Styling */
 .footer {
   background-color: rgba(0, 0, 0, 0.7);
   color: white;
@@ -466,42 +490,6 @@ body {
 
 .footer-icon img:hover {
   height: 17px;
-}
-
-.slideshow {
-  max-width: 600px;
-}
-
-.slideshow-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 60%;
-  position: relative;
-  margin: auto;
-  width: 100%;
-  max-width: 600px;
-}
-
-.slideshow-image {
-  display: none;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  max-height: 600px;
-  border: 4px solid rgb(12, 12, 12);
-  border-radius: 5px;
-}
-
-.slideshow-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.slideshow-image.active {
-  display: block;
 }
 
 .image-container {

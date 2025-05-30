@@ -5,13 +5,18 @@
  * @returns: None
  */
 
-import { getItemData, rarities, isExcludedLabel } from "./utils.js";
+import {
+  getItemData, // Function to return JSON data
+  rarities, // Ordered list of Item Rarites
+  isExcludedLabel, // List of skins to exclude listings button
+  setObserver, // Observer for Fade Animations
+} from "./utils.js";
 
 let itemData;
-const sound = new Audio("sounds/tick.mp3");
+const sound = new Audio("sounds/tick.mp3"); // Define sound file
 
 (async function initializeWishlistGallery() {
-  itemData = await getItemData(); // Load all rarity JSON files (cached if repeated)
+  itemData = await getItemData(); // Load all JSON data files
 
   var localWishlistIDs = JSON.parse(localStorage.getItem("wishlist")) || []; // Import User's local wishlist
 
@@ -27,7 +32,7 @@ const sound = new Audio("sounds/tick.mp3");
     console.log(myWishlist);
   }
 
-  renderWishlistGallery(); // Now it's safe to use getItemProperties
+  renderWishlistGallery(); // Begin rendering wishlist items
 })();
 
 /* function getItemProperties
@@ -42,15 +47,15 @@ function getItemProperties(lookupID, itemData) {
       return {
         url: match.url,
         label: match.label,
-        rarity: rarity,
+        rarity: rarity, // return Item Data
       };
     }
   }
   return null;
 }
 
-/* Define ItemID Sort Function
- * Sorts the WishlistIDs
+/* function sortWithlist(myWishlist)
+ * Sorts the WishlistIDs in order of rarity
  */
 export function sortWishlist(myWishlist) {
   myWishlist.sort(function (a, b) {
@@ -62,39 +67,42 @@ export function sortWishlist(myWishlist) {
 
 let myWishlist = []; // Create an empty wishlist
 
+/* function renderWishlistGallery()
+ * Build items from JSON data
+ */
 function renderWishlistGallery() {
-  /* Load Wishlist */
   for (var i = 0; i < myWishlist.length; i++) {
+    // Iterate through each item in the wishlist
     const itemID = myWishlist[i];
-    console.log("Loaded Item " + itemID);
-    let itemProps = getItemProperties(itemID, itemData); // Search for the URL, Rarity and Label of an item
-    if (itemProps) {
+    //console.log("Loaded Item " + itemID);
+    let itemProperties = getItemProperties(itemID, itemData); // Search for and store the URL, Label and Rarity of an item
+    if (itemProperties) {
       // If the itemID in myWishlist is also found in the gallery...
-      var imageDiv = document.createElement("div"); // Create a div with the class "item <rarity>"
-      imageDiv.className = "item " + itemProps.rarity;
+      var itemCard = document.createElement("div"); // Create a div with the class "item <rarity>"
+      itemCard.className = "item " + itemProperties.rarity;
 
       var image = document.createElement("img"); // Create an img with the source of the found URL
       image.loading = "lazy";
-      image.src = itemProps.url;
+      image.src = itemProperties.url;
 
-      var itemLabel = document.createElement("h1"); // Create an item label element and set to found Label
-      itemLabel.innerHTML = itemProps.label;
+      var itemLabel = document.createElement("h1"); // Create an item label element with itemProperties' label
+      itemLabel.innerHTML = itemProperties.label;
 
       // Create button container
       var buttonContainer = document.createElement("div");
 
-      // If the item is an NFT, Lunar, Mastery or Black Market item...
-      if (isExcludedLabel(itemProps.label, itemProps.rarity)) {
+      // If the item is an NFT, Lunar, Mastery, Black Market or other non-listable item, give it a 2 button container
+      if (isExcludedLabel(itemProperties.label, itemProperties.rarity)) {
         buttonContainer.className = "excluded-button-container";
       } else {
         buttonContainer.className = "default-button-container";
       }
 
-      // Create Item Info button
+      // Create the Item Info button
       const button1 = document.createElement("button");
       button1.innerHTML = "Info";
       button1.className = "button";
-      button1.dataset.item_id = itemID; // Add item's ID to Info Button data attribute
+      button1.dataset.item_id = itemID; // Store item's ID in individual Info Button data attribute
       button1.addEventListener("click", function () {
         window.open(
           "https://krunker.io/social.html?p=itemsales&i=" +
@@ -103,9 +111,9 @@ function renderWishlistGallery() {
         );
       });
 
-      buttonContainer.appendChild(button1);
+      buttonContainer.appendChild(button1); // Add Info Button to buttonContainer
 
-      // Create Item Listings button
+      // Create the Listings or Lock button
       const button2 = document.createElement("button");
       // Create Unavailable button for every excluded-button-container class
       if (buttonContainer.classList.contains("excluded-button-container")) {
@@ -126,13 +134,13 @@ function renderWishlistGallery() {
         });
       }
 
-      buttonContainer.appendChild(button2);
+      buttonContainer.appendChild(button2); // Add Listings Button to buttonContainer
 
       // Create Remove from Wishlist button
       const button3 = document.createElement("button");
       button3.innerHTML = "Remove";
       button3.className = "removeButton";
-      button3.dataset.item_id = itemID;
+      button3.dataset.item_id = itemID; // Store item's ID in individual Wishlist Button data attribute
 
       // When "Remove" button is clicked...
       button3.addEventListener("click", function () {
@@ -156,18 +164,20 @@ function renderWishlistGallery() {
         }
       });
 
+      // Console Log currently hovered item
       button3.addEventListener("mouseover", function () {
-        // Print button ID aka. itemID from data attribute
         console.log("Currently hovering over item: " + this.dataset.item_id);
       });
 
-      buttonContainer.appendChild(button3);
+      buttonContainer.appendChild(button3); // Add Remove Button to buttonContainer
 
-      // Build Page
-      imageDiv.appendChild(image); // Place img inside of the div
-      imageDiv.appendChild(itemLabel); // Place label inside of the div
-      imageDiv.appendChild(buttonContainer); // place buttonContainer inside of the div
-      document.getElementById("myWishlistGallery").appendChild(imageDiv); // Place the div inside of the wishlist gallery
+      // Build Item Div
+      itemCard.appendChild(image); // Place img inside of the div
+      itemCard.appendChild(itemLabel); // Place label inside of the div
+      itemCard.appendChild(buttonContainer); // place buttonContainer inside of the div
+      document.getElementById("myWishlistGallery").appendChild(itemCard); // Place the item div inside wishlist gallery
+
+      setObserver(itemCard); // Add observer to each itemCard for fade effects
     } else {
       console.log("Item ID not found.");
     }
@@ -183,56 +193,72 @@ function renderWishlistGallery() {
   const sliderValue = document.getElementById("slider-value");
   const resetSliderLink = document.getElementById("reset-slider");
 
-  sliderValue.textContent = slider.value;
+  sliderValue.textContent = slider.value; // Set GUI Slider Value
 
-  // Apply scale to page elements
-  function applyScale(rawValue) {
-    const value = parseInt(rawValue, 10);
+  /* function applyScale()
+   *
+   * Change the scale of all elements based on GUI Slider Value
+   *
+   * @params: GUIsize
+   * @returns: None
+   */
+  function applyScale(GUIsize) {
+    const value = parseInt(GUIsize, 10);
     const px = `${value}px`;
     const fontSize = `${value / 10}px`;
 
-    // Get sizes of each element
+    // Get size of each div
     itemDivs.forEach((div) => {
       div.style.width = px;
       div.style.height = px;
     });
 
+    // Get size of each img
     itemImages.forEach((img) => {
       img.style.width = px;
       img.style.height = px;
     });
 
+    // Get size of each label
     itemLabels.forEach((label) => {
       label.style.fontSize = fontSize;
     });
 
-    sliderValue.textContent = value;
+    sliderValue.textContent = value; // Apply scale
   }
 
-  // Helper: Reset scale styles
+  /* function resetScale()
+   *
+   * Reset the scale of all elements when GUI Slider is clicked
+   *
+   * @params: None
+   * @returns: None
+   */
   function resetScale() {
     const defaultValue = parseInt(slider.defaultValue, 10); // Get default value as integer
     slider.value = defaultValue;
-    applyScale(defaultValue);
+    applyScale(defaultValue); // Apply default scaling to elements
 
-    // Reset sizes of each element
+    // Reset sizes of each div
     itemDivs.forEach((div) => {
       div.style.width = "";
       div.style.height = "";
     });
 
+    // Reset sizes of each img
     itemImages.forEach((img) => {
       img.style.width = "";
       img.style.height = "";
     });
 
+    // Reset sizes of each label
     itemLabels.forEach((label) => {
       label.style.fontSize = "";
     });
   }
 
-  slider.addEventListener("input", () => applyScale(slider.value)); // Add scaling function to slider element
-  resetSliderLink.addEventListener("click", resetScale); // Add reset function to slider reset button
+  slider.addEventListener("input", () => applyScale(slider.value)); // Add scaling function to slider element input
+  resetSliderLink.addEventListener("click", resetScale); // Add reset function to slider reset button click
 }
 
 // Play Sound when Button is hovered
