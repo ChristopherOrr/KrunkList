@@ -4,13 +4,6 @@
   src: url(fonts/FFFForward.ttf);
 }
 
-/* Title Image Container */
-.navBar {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 /* Resize and add a transition */
 .titleImage {
   width: 300px;
@@ -81,8 +74,7 @@
 
   opacity: 0;
   transform: translateY(20px) scale(0.9);
-  transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1),
-    transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1), transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* Item Fade Animation Values */
@@ -343,23 +335,44 @@ body {
   background-color: #242221f3;
 }
 
-/* Navbar Styling */
 .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.85);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px 20px;
+  font-family: krunker;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   z-index: 2;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background-color: rgb(0, 0, 0, 0.85);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  padding: 10px 20px;
-  font-family: krunker;
+  overflow: hidden;
+  flex-wrap: nowrap;
+  height: 40px;
   margin-left: -10px;
   margin-right: -10px;
-  overflow-x: hidden;
+}
+
+.navbar-left {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-right {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 1rem;
 }
 
 /* Navbar Logo Animation */
@@ -401,10 +414,18 @@ body {
   color: grey;
 }
 
+/* Set font size to 16px on mobile to prevent search bar zoom on click */
+@media (max-width: 768px) {
+  input,
+  textarea,
+  select {
+    font-size: 16px;
+  }
+}
+
 /* Remove All Button Styling */
 #remove-all-link {
-  position: absolute;
-  margin-left: 42%;
+  margin-left: 0%;
 }
 
 /* Remove All Hover Animation */
@@ -415,9 +436,11 @@ body {
 /* Navbar Links Group Styling */
 .navbar-links {
   display: flex;
+  align-items: center; /* center items vertically (optional) */
+  flex-wrap: wrap; /* allows wrapping if needed */
   list-style: none;
-  margin: 0;
   padding: 0;
+  gap: 1rem;
 }
 
 /* Individual Navbar Link Styling */
@@ -426,8 +449,10 @@ body {
   color: rgb(255, 255, 255);
   text-decoration: none;
   transition: color 0.2s;
-  margin: 0 50px;
+  margin-right: 50px;
   margin-left: -10px;
+  text-align: center;
+  white-space: nowrap;
 }
 
 /* Individual Navbar Link Hover Animation */
@@ -435,10 +460,8 @@ body {
   color: #666;
 }
 
-/* guiLabel ID Positioning */
-#guiLabel {
-  position: absolute;
-  margin-left: 42%;
+#reset-slider:hover {
+  color: #666;
 }
 
 /* Reset GUI Button Styling */
@@ -498,5 +521,21 @@ body {
 
 .slider-container {
   display: flex;
+  flex-direction: column; /* stack vertically */
   align-items: center;
+  justify-content: center;
+  margin-right: 50px;
+}
+
+.slider-label-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+}
+
+.slider-label {
+  font-size: 14px;
+  color: white;
+  text-decoration: none;
 }
