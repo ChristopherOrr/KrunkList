@@ -453,11 +453,16 @@ body {
   }
 
   .navbar-left,
-  .navbar-center,
+  .navbar-center {
+    width: 100%;
+    justify-content: center;
+    padding-left: 0;
+    margin-bottom: 10px;
+  }
+
   .navbar-right {
     width: 100%;
     justify-content: center;
-    margin-bottom: 10px;
     padding-left: 0;
   }
 
@@ -514,11 +519,6 @@ body {
   color: grey;
 }
 
-/* Remove All Button Styling */
-#remove-all-link {
-  margin-left: 0%;
-}
-
 /* Remove All Hover Animation */
 #remove-all-link:hover {
   color: rgb(128, 24, 24);
@@ -534,8 +534,6 @@ body {
   color: rgb(255, 255, 255);
   text-decoration: none;
   transition: color 0.2s;
-  margin: 0 10px;
-  margin-right: 50px;
 }
 
 /* Footer Styling */
