@@ -93,6 +93,10 @@
   .item button {
     padding: 6px 14px;
   }
+
+  .item .addToWishlistButton {
+    font-size: 65%;
+  }
 }
 
 @media (min-width: 320px) and (max-width: 353px) {
@@ -109,6 +113,10 @@
   .item button {
     padding: 6px 12px;
     margin: 3px;
+  }
+
+  .item .addToWishlistButton {
+    font-size: 58%;
   }
 }
 
