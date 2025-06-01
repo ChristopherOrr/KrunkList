@@ -32,16 +32,8 @@
   z-index: 1;
 }
 
-/* Whole Gallery */
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding-top: 50px;
-  height: auto; /* set the height of the parent container 1530px */
-}
-
-/* myWishlistGallery ID Formatting */
+/* Gallery Formatting */
+.gallery,
 #myWishlistGallery {
   display: flex;
   flex-wrap: wrap;
@@ -75,6 +67,27 @@
   opacity: 0;
   transform: translateY(20px) scale(0.9);
   transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1), transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+  aspect-ratio: 1/1;
+  max-width: 160px;
+}
+
+/* Properties for an Image within an Item Class */
+.item img {
+  display: block;
+  object-fit: contain;
+  width: 100%;
+}
+
+@media (min-width: 353px) and (max-width: 392px) {
+  .item,
+  .item img {
+    max-width: 140px;
+  }
+
+  .item h1 {
+    font-size: 14px;
+  }
 }
 
 /* Item Fade Animation Values */
@@ -83,12 +96,15 @@
   transform: translateY(0) scale(1);
 }
 
-/* Properties for an Image within an Item Class */
-.item img {
-  display: block;
-  width: 160px;
-  height: 160px;
-  object-fit: cover;
+@media (min-width: 320px) and (max-width: 353px) {
+  .item,
+  .item img {
+    max-width: 120px;
+  }
+
+  .item h1 {
+    font-size: 12px;
+  }
 }
 
 /* NFT Rarity Properties */
@@ -405,6 +421,11 @@ body {
 }
 
 @media (max-width: 790px) {
+  .gallery,
+  #myWishlistGallery {
+    padding-top: 160px;
+  }
+
   .navbar {
     flex-direction: column;
     align-items: stretch;
