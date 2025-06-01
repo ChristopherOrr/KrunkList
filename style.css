@@ -69,7 +69,7 @@
   transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1), transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
   aspect-ratio: 1/1;
-  max-width: 160px;
+  width: 160px;
 }
 
 /* Properties for an Image within an Item Class */
@@ -85,15 +85,14 @@
     max-width: 140px;
   }
 
-  .item h1 {
+  .item h1,
+  .item button {
     font-size: 14px;
   }
-}
 
-/* Item Fade Animation Values */
-.item.fade-in {
-  opacity: 1;
-  transform: translateY(0) scale(1);
+  .item button {
+    padding: 6px 14px;
+  }
 }
 
 @media (min-width: 320px) and (max-width: 353px) {
@@ -102,9 +101,21 @@
     max-width: 120px;
   }
 
-  .item h1 {
+  .item h1,
+  .item button {
     font-size: 12px;
   }
+
+  .item button {
+    padding: 6px 12px;
+    margin: 3px;
+  }
+}
+
+/* Item Fade Animation Values */
+.item.fade-in {
+  opacity: 1;
+  transform: translateY(0) scale(1);
 }
 
 /* NFT Rarity Properties */
