@@ -1,18 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>My Wishlist</title>
-    <link rel="icon" href="images/triggerman.png" type="image/icon type" />
-    <link rel="stylesheet" type="text/css" href="style.css" />
-    <!--Link to CSS-->
+    <link rel="icon" href="images/triggerman.png" type="image/png" />
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Define playSound function to play "tick" effect -->
     <script>
       const sound = new Audio("sounds/tick.mp3");
       function playSound() {
         sound.play();
       }
     </script>
-    <!--Define playSound function to play "tick" effect-->
   </head>
+
   <body>
     <nav class="navbar">
       <div class="navbar-left">
@@ -32,37 +35,36 @@
           <input type="range" min="100" max="300" value="160" id="slider" />
         </div>
         <ul class="navbar-links">
-          <li><a href="index.html" class="nav-link" title="View All Items" onmouseover="playSound()">Item Gallery</a></li>
-          <li><a href="wishlist.html" class="nav-link" title="View My Wishlist" onmouseover="playSound()">My Wishlist</a></li>
+          <li>
+            <a href="index.html" class="nav-link" title="View All Items" onmouseover="playSound()">Item Gallery</a>
+          </li>
         </ul>
       </div>
     </nav>
 
     <div id="myWishlistGallery" class="myWishlistGallery">
       <div id="message" class="message"></div>
-      <!--Empty Wishlist message spawns here-->
+      <!-- Empty Wishlist message spawns here -->
     </div>
 
+    <!-- Load Wishlist Items -->
     <script type="module" src="loadWishlist.js"></script>
-    <!--Run loadWishlist.js-->
 
-    <footer>
-      <div class="footer">
-        <div class="footer-icon" style="margin-left: 10px">
-          <a href="https://krunker.io/social.html?p=profile&q=qwest500" target="_blank">
-            <img src="images/ak.png" alt="YouTube" title="Qwest500's Profile" />
-          </a>
-        </div>
+    <footer class="footer">
+      <div class="footer-icon" style="margin-left: 10px">
+        <a href="https://krunker.io/social.html?p=profile&q=qwest500" target="_blank" onmouseover="playSound()">
+          <img src="images/ak.png" alt="Krunker Profile" title="Qwest500's Profile" />
+        </a>
+      </div>
 
-        <div class="footer-content">
-          <p>&copy; KrunkList 2025</p>
-        </div>
+      <div class="footer-content">
+        <p>&copy; KrunkList 2025</p>
+      </div>
 
-        <div class="footer-icon">
-          <a href="https://www.youtube.com/channel/UCWS7B_k79sR3Axu8ciF6W_Q" target="_blank">
-            <img src="images/YTicon.png" alt="YouTube" title="Qwest500's YouTube" />
-          </a>
-        </div>
+      <div class="footer-icon">
+        <a href="https://www.youtube.com/channel/UCWS7B_k79sR3Axu8ciF6W_Q" target="_blank" onmouseover="playSound()">
+          <img src="images/YTicon.png" alt="YouTube" title="Qwest500's YouTube" />
+        </a>
       </div>
     </footer>
   </body>

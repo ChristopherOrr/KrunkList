@@ -350,15 +350,18 @@ body {
   z-index: 2;
   overflow: hidden;
   flex-wrap: nowrap;
-  height: 40px;
-  margin-left: -10px;
-  margin-right: -10px;
+  height: 42px;
+}
+
+.navbar {
+  transition: all 0.3s ease;
 }
 
 .navbar-left {
   flex: 1;
   display: flex;
   align-items: center;
+  gap: 1rem;
 }
 
 .navbar-center {
@@ -372,7 +375,66 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-end;
+  gap: 3rem;
+}
+
+/* Navbar Links Group Styling */
+.navbar-links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style: none;
   gap: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+/* Individual Navbar Link Styling */
+.nav-link {
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  transition: color 0.2s;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Individual Navbar Link Hover Animation */
+.nav-link:hover {
+  color: #666;
+}
+
+@media (max-width: 790px) {
+  .navbar {
+    flex-direction: column;
+    align-items: stretch;
+    height: auto;
+    padding: 10px;
+  }
+
+  .navbar-left,
+  .navbar-center,
+  .navbar-right {
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 10px;
+    padding-left: 0;
+  }
+
+  .navbar-search {
+    width: 90%;
+    max-width: 300px;
+  }
+
+  .navbar-links {
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-link {
+    margin-right: 0;
+  }
 }
 
 /* Navbar Logo Animation */
@@ -381,7 +443,6 @@ body {
   font-weight: bold;
   color: white; /* Initial color before animation */
   text-decoration: none;
-  margin-left: 50px;
   animation: flash 10s infinite; /* Your existing animation */
   transition: text-shadow 0.3s ease; /* Smooth transition for the glow effect */
 }
@@ -397,7 +458,6 @@ body {
   list-style: none;
   margin: 0;
   padding: 5px;
-  margin-left: 190px;
   border-radius: 5px;
   border-color: transparent;
   background-color: #5f5f5f;
@@ -414,15 +474,6 @@ body {
   color: grey;
 }
 
-/* Set font size to 16px on mobile to prevent search bar zoom on click */
-@media (max-width: 768px) {
-  input,
-  textarea,
-  select {
-    font-size: 16px;
-  }
-}
-
 /* Remove All Button Styling */
 #remove-all-link {
   margin-left: 0%;
@@ -431,33 +482,6 @@ body {
 /* Remove All Hover Animation */
 #remove-all-link:hover {
   color: rgb(128, 24, 24);
-}
-
-/* Navbar Links Group Styling */
-.navbar-links {
-  display: flex;
-  align-items: center; /* center items vertically (optional) */
-  flex-wrap: wrap; /* allows wrapping if needed */
-  list-style: none;
-  padding: 0;
-  gap: 1rem;
-}
-
-/* Individual Navbar Link Styling */
-.nav-link {
-  font-size: 18px;
-  color: rgb(255, 255, 255);
-  text-decoration: none;
-  transition: color 0.2s;
-  margin-right: 50px;
-  margin-left: -10px;
-  text-align: center;
-  white-space: nowrap;
-}
-
-/* Individual Navbar Link Hover Animation */
-.nav-link:hover {
-  color: #666;
 }
 
 #reset-slider:hover {
@@ -524,7 +548,6 @@ body {
   flex-direction: column; /* stack vertically */
   align-items: center;
   justify-content: center;
-  margin-right: 50px;
 }
 
 .slider-label-row {

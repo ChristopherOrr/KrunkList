@@ -1,81 +1,67 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Item Gallery</title>
     <link rel="icon" href="images/ak.png" type="image/png" />
-    <link rel="stylesheet" type="text/css" href="style.css" />
-    <!--Link to CSS-->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- JavaScript: Audio -->
     <script>
       const sound = new Audio("sounds/tick.mp3");
-      //Load sound file when page is loaded
+
       function playSound() {
         sound.play();
       }
 
-      // Define audio element for background music
       const backgroundMusic = new Audio("sounds/marketTheme.mp3");
 
-      // Define audio function to begin playing music when the user interacts with the page
       document.addEventListener(
         "click",
         function () {
-          // Start playing the background music
           backgroundMusic.play();
         },
         { once: true }
       );
 
-      // Add event listener for "ended" event
       backgroundMusic.addEventListener("ended", function () {
-        // Call the play() method again to loop the audio file
         backgroundMusic.play();
       });
     </script>
   </head>
 
   <body>
-    <!--Nav Bar Link 1-->
+    <!-- Navbar -->
     <nav class="navbar">
-      <a href="index.html" class="navbar-home" onmouseover="playSound()"
-        >KrunkList</a
-      >
-      <!--Search Bar-->
-      <input
-        type="text"
-        id="mySearchBar"
-        placeholder="Search Item..."
-        class="navbar-search"
-      />
-      <!--Right Aligned Links-->
-      <ul class="navbar-links">
-        <li>
-          <a href="index.html" class="nav-link" onmouseover="playSound()"
-            >Item Gallery</a
-          >
-        </li>
-        <li>
-          <a href="wishlist.html" class="nav-link" onmouseover="playSound()"
-            >My Wishlist</a
-          >
-        </li>
-      </ul>
+      <div class="navbar-left">
+        <a href="index.html" class="navbar-home" title="Home" onmouseover="playSound()">KrunkList</a>
+      </div>
+
+      <div class="navbar-center">
+        <input type="text" id="mySearchBar" placeholder="Search Item..." class="navbar-search" />
+      </div>
+
+      <div class="navbar-right">
+        <ul class="navbar-links">
+          <li>
+            <a href="wishlist.html" class="nav-link" onmouseover="playSound()">My Wishlist</a>
+          </li>
+        </ul>
+      </div>
     </nav>
 
+    <!-- Main Gallery -->
     <div id="gallery" class="gallery"></div>
-    <!--Create the main Gallery Div-->
-    <script type="module" src="loadItemsList.js"></script>
-    <!--Run loading.js-->
-  </body>
 
-  <footer>
-    <div class="footer">
+    <!-- Load Items -->
+    <script type="module" src="loadItemsList.js"></script>
+
+    <!-- Footer -->
+    <footer class="footer">
       <div class="footer-icon" style="margin-left: 10px">
-        <a
-          href="https://krunker.io/social.html?p=profile&q=qwest500"
-          target="_blank"
-        >
-          <img src="images/ak.png" alt="YouTube" title="Qwest500's Profile" />
-          <!--Create Youtube Channel Icon-->
+        <a href="https://krunker.io/social.html?p=profile&q=qwest500" target="_blank" onmouseover="playSound()">
+          <img src="images/ak.png" alt="Krunker Profile" title="Qwest500's Profile" />
         </a>
       </div>
 
@@ -84,18 +70,10 @@
       </div>
 
       <div class="footer-icon">
-        <a
-          href="https://www.youtube.com/channel/UCWS7B_k79sR3Axu8ciF6W_Q"
-          target="_blank"
-        >
-          <img
-            src="images/YTicon.png"
-            alt="YouTube"
-            title="Qwest500's YouTube"
-          />
-          <!--Create Youtube Channel Icon-->
+        <a href="https://www.youtube.com/channel/UCWS7B_k79sR3Axu8ciF6W_Q" target="_blank" onmouseover="playSound()">
+          <img src="images/YTicon.png" alt="YouTube" title="Qwest500's YouTube" />
         </a>
       </div>
-    </div>
-  </footer>
+    </footer>
+  </body>
 </html>
