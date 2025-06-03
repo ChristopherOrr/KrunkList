@@ -116,6 +116,7 @@
   }
 
   .item .addToWishlistButton {
+    padding: 6px 12px;
     font-size: 58%;
   }
 }
@@ -439,7 +440,7 @@ body {
   color: #666;
 }
 
-@media (max-width: 790px) {
+@media (max-width: 790px) and (orientation: portrait) {
   .gallery,
   #myWishlistGallery {
     padding-top: 160px;
@@ -586,6 +587,7 @@ body {
   flex-direction: column; /* stack vertically */
   align-items: center;
   justify-content: center;
+  overflow: visible;
 }
 
 .slider-label-row {
@@ -593,10 +595,18 @@ body {
   justify-content: center;
   align-items: center;
   gap: 10%;
+
+  font-smooth: never; /* Keep Font Pixelated */
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  image-rendering: pixelated;
+
+  overflow: visible;
 }
 
 .slider-label {
   font-size: 14px;
   color: white;
   text-decoration: none;
+  overflow: visible;
 }
