@@ -206,13 +206,13 @@ function renderWishlistGallery() {
     // Get size of each div
     itemDivs.forEach((div) => {
       div.style.width = px;
-      div.style.height = px;
+      div.style.height = "";
     });
 
     // Get size of each img
     itemImages.forEach((img) => {
       img.style.width = px;
-      img.style.height = px;
+      img.style.height = "";
     });
 
     // Get size of each label
