@@ -4,20 +4,6 @@
   src: url(fonts/FFFForward.ttf);
 }
 
-/* Resize and add a transition */
-.titleImage {
-  width: 300px;
-  height: auto;
-  margin: 0 10px;
-  transition: transform 0.2s ease-in-out;
-}
-
-/* Configure hover transformation and filter */
-.titleImage:hover {
-  transform: scale(1.05);
-  filter: brightness(0.7);
-}
-
 /* Item Text Properties */
 .item h1 {
   font-family: krunker;
@@ -64,12 +50,30 @@
   overflow: hidden;
   position: relative; /* Needed for Item Label */
 
+  /* Variables for Scroll Fade In & Mouse Hover */
+  --fade-transform: translateY(20px) scale(0.9);
+  --hover-scale: 1;
+
+  /* Compose final transform */
+  transform: var(--fade-transform) scale(var(--hover-scale));
+
   opacity: 0;
-  transform: translateY(20px) scale(0.9);
   transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1), transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
   aspect-ratio: 1/1;
   width: 160px;
+}
+
+/* Fade and Scale items when entering/leaving the page */
+.item.fade-in {
+  --fade-transform: translateY(0) scale(1);
+  opacity: 1;
+}
+
+/* Scale .item up on mouse hover */
+.item:hover {
+  --hover-scale: 1.03;
+  transition-duration: 0.1s;
 }
 
 /* Properties for an Image within an Item Class */
@@ -79,6 +83,7 @@
   width: 100%;
 }
 
+/* Scale down .item elements for small screens */
 @media (min-width: 353px) and (max-width: 392px) {
   .item,
   .item img {
@@ -99,6 +104,7 @@
   }
 }
 
+/* Scale down .item elements again for mini screens */
 @media (min-width: 320px) and (max-width: 353px) {
   .item,
   .item img {
@@ -119,12 +125,6 @@
     padding: 6px 12px;
     font-size: 58%;
   }
-}
-
-/* Item Fade Animation Values */
-.item.fade-in {
-  opacity: 1;
-  transform: translateY(0) scale(1);
 }
 
 /* NFT Rarity Properties */
@@ -371,6 +371,24 @@ body {
   background-color: #242221f3;
 }
 
+/* Bounce animation for .buttons onClick */
+.buttonBounce {
+  animation: bounceOnClick 0.3s ease forwards;
+}
+
+@keyframes bounceOnClick {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.92);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Navbar Styling */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -393,6 +411,7 @@ body {
   transition: all 0.3s ease;
 }
 
+/* Left Navbar Group - Logo */
 .navbar-left {
   flex: 1;
   display: flex;
@@ -400,12 +419,14 @@ body {
   gap: 1rem;
 }
 
+/* Center Navbar Group - Search Bar & Remove All Items button */
 .navbar-center {
   flex: 1;
   display: flex;
   justify-content: center;
 }
 
+/* Right Navbar Group - Navbar links & Slider-Container */
 .navbar-right {
   flex: 1;
   display: flex;
@@ -433,13 +454,17 @@ body {
   transition: color 0.2s;
   text-align: center;
   white-space: nowrap;
+  transition: transform 0.2s ease-in, color 0.2s ease;
+  display: inline-block; /* Enables transform to work nicely */
 }
 
 /* Individual Navbar Link Hover Animation */
 .nav-link:hover {
   color: #666;
+  transform: scale(0.98);
 }
 
+/* Make navbar layered on mobile portrait screens */
 @media (max-width: 790px) and (orientation: portrait) {
   .gallery,
   #myWishlistGallery {
@@ -489,13 +514,17 @@ body {
   font-weight: bold;
   color: white; /* Initial color before animation */
   text-decoration: none;
-  animation: flash 10s infinite; /* Your existing animation */
-  transition: text-shadow 0.3s ease; /* Smooth transition for the glow effect */
+  animation: flash 10s infinite;
+  transition: text-shadow 0.3s ease, transform 0.3s ease-in; /* Smooth transition for the glow effect */
+  padding: 4px; /* Add slight padding */
+  overflow: visible; /* Ensure glow/shadow isn't clipped */
+  display: inline-block; /* So transform & padding apply correctly */
 }
 
 /* Navbar glow effect on hover */
 .navbar-home:hover {
-  text-shadow: 0 0 20px white;
+  text-shadow: 0 0 20px rgba(255, 255, 255, 0.7);
+  transform: scale(1.05);
 }
 
 /* Search Bar Styling */
@@ -523,18 +552,6 @@ body {
 /* Remove All Hover Animation */
 #remove-all-link:hover {
   color: rgb(128, 24, 24);
-}
-
-#reset-slider:hover {
-  color: #666;
-}
-
-/* Reset GUI Button Styling */
-.guiLabel {
-  font-size: 18px;
-  color: rgb(255, 255, 255);
-  text-decoration: none;
-  transition: color 0.2s;
 }
 
 /* Footer Styling */
@@ -582,14 +599,16 @@ body {
   position: relative;
 }
 
+/* Styling slider-container from wishlist.js */
 .slider-container {
   display: flex;
   flex-direction: column; /* stack vertically */
   align-items: center;
   justify-content: center;
-  overflow: visible;
+  overflow: hidden;
 }
 
+/* Holds the text elements within .slider-container */
 .slider-label-row {
   display: flex;
   justify-content: center;
@@ -601,12 +620,27 @@ body {
   -moz-osx-font-smoothing: grayscale;
   image-rendering: pixelated;
 
-  overflow: visible;
+  overflow: hidden;
+  display: inline-block;
 }
 
+/* Displays the slider value */
 .slider-label {
   font-size: 14px;
   color: white;
   text-decoration: none;
-  overflow: visible;
+  overflow: hidden;
+  display: inline-block;
+}
+
+/* GUI Text Button */
+#reset-slider {
+  transition: transform 0.2s ease-in, color 0.2s ease;
+  display: inline-block; /* Enables transform to work nicely */
+}
+
+/* GUI Text Button Hover animations */
+#reset-slider:hover {
+  color: rgb(128, 128, 24);
+  transform: scale(0.99);
 }

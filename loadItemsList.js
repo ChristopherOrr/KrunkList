@@ -23,9 +23,7 @@ let itemData;
  */
 function searchItems() {
   // Get user's input from the search bar
-  const userInput = document
-    .querySelector('input[type="text"]')
-    .value.toLowerCase();
+  const userInput = document.querySelector('input[type="text"]').value.toLowerCase();
 
   // Get all item elements
   const items = document.querySelectorAll(".item");
@@ -107,11 +105,7 @@ function renderItems() {
       button1.className = "button";
       button1.dataset.item_id = id; // Store item's ID in individual Info Button data attribute
       button1.addEventListener("click", function () {
-        window.open(
-          "https://krunker.io/social.html?p=itemsales&i=" +
-            this.dataset.item_id,
-          "_blank"
-        );
+        window.open("https://krunker.io/social.html?p=itemsales&i=" + this.dataset.item_id, "_blank");
       });
 
       buttonContainer.appendChild(button1); // Add Info Button to buttonContainer
@@ -128,10 +122,7 @@ function renderItems() {
         button2.className = "button";
         button2.dataset.item_id = id; // Store item's ID in individual Listings Button data attribute
         button2.addEventListener("click", function () {
-          window.open(
-            "https://krunker.io/social.html?p=market&i=" + this.dataset.item_id,
-            "_blank"
-          );
+          window.open("https://krunker.io/social.html?p=market&i=" + this.dataset.item_id, "_blank");
         });
       }
 
@@ -157,6 +148,14 @@ function renderItems() {
           this.disabled = true;
           this.className = "inWishlistButton"; // Switch class so button remains green
           this.textContent = "Added!"; // Change button text content briefly
+
+          sound.currentTime = 0; // rewind to start so it plays on every hover
+          sound.play();
+
+          if (!this.classList.contains("buttonBounce")) {
+            this.classList.add("buttonBounce");
+            this.addEventListener("animationend", () => this.classList.remove("buttonBounce"), { once: true }); // Remove buttonBounce class
+          }
 
           setTimeout(() => {
             this.textContent = "In Wishlist"; // Revert button text content after 1 second
@@ -192,11 +191,26 @@ document.getElementById("mySearchBar").addEventListener("input", function () {
 
 const sound = new Audio("sounds/tick.mp3"); // Declare sound file
 
-// Play Sound when a button is hovered
-document.addEventListener("mouseover", function (event) {
-  const button = event.target.closest("button");
+// Bounce when button is clicked
+document.body.addEventListener("click", (event) => {
+  const button = event.target.closest(".button");
+  if (!button) return;
+  button.classList.add("buttonBounce");
+  button.addEventListener("animationend", () => button.classList.remove("buttonBounce"), { once: true }); // Remove buttonBounce class
+
   if (button && !button.classList.contains("cannotBeSold")) {
-    sound.currentTime = 0; // rewind sound
+    sound.currentTime = 0; // rewind to start so it plays on every hover
+    sound.play();
+  }
+});
+
+document.addEventListener("mouseover", (event) => {
+  const item = event.target.closest(".item");
+  if (!item) return;
+
+  // Check if the mouse came from outside the `.item`
+  if (!item.contains(event.relatedTarget)) {
+    sound.currentTime = 0;
     sound.play();
   }
 });

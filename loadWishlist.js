@@ -104,11 +104,7 @@ function renderWishlistGallery() {
       button1.className = "button";
       button1.dataset.item_id = itemID; // Store item's ID in individual Info Button data attribute
       button1.addEventListener("click", function () {
-        window.open(
-          "https://krunker.io/social.html?p=itemsales&i=" +
-            this.dataset.item_id,
-          "_blank"
-        );
+        window.open("https://krunker.io/social.html?p=itemsales&i=" + this.dataset.item_id, "_blank");
       });
 
       buttonContainer.appendChild(button1); // Add Info Button to buttonContainer
@@ -144,21 +140,21 @@ function renderWishlistGallery() {
 
       // When "Remove" button is clicked...
       button3.addEventListener("click", function () {
+        sound.currentTime = 0; // rewind to start so it plays on every hover
+        sound.play();
+
         button3.textContent = "Removing...";
         let removeIndex = myWishlist.indexOf(itemID); // Calculate the index to be removed required for .splice
 
         if (removeIndex !== -1) {
           // If the itemID exists...
-          console.log(
-            "Item " +
-              itemID +
-              " (#" +
-              (removeIndex + 1) +
-              ") has been removed from your wishlist."
-          );
+          console.log("Item " + itemID + " (#" + (removeIndex + 1) + ") has been removed from your wishlist.");
           myWishlist.splice(removeIndex, 1); // Remove the item
           localStorage.setItem("wishlist", JSON.stringify(myWishlist)); // Update localStorage
-          window.location.reload(); // Reload the page to load the new localStorage
+
+          setTimeout(() => {
+            window.location.reload(); // Reload the page to load the new localStorage
+          }, 150);
         } else {
           console.log("Item " + itemID + " does not exist in your wishlist.");
         }
@@ -261,11 +257,26 @@ function renderWishlistGallery() {
   resetSliderLink.addEventListener("click", resetScale); // Add reset function to slider reset button click
 }
 
-// Play Sound when Button is hovered
-document.addEventListener("mouseover", function (event) {
-  const button = event.target.closest("button");
+// Bounce when button is clicked
+document.body.addEventListener("click", (event) => {
+  const button = event.target.closest(".button");
+  if (!button) return;
+  button.classList.add("buttonBounce");
+  button.addEventListener("animationend", () => button.classList.remove("buttonBounce"), { once: true }); // Remove buttonBounce class
+
   if (button && !button.classList.contains("cannotBeSold")) {
     sound.currentTime = 0; // rewind to start so it plays on every hover
+    sound.play();
+  }
+});
+
+document.addEventListener("mouseover", (event) => {
+  const item = event.target.closest(".item");
+  if (!item) return;
+
+  // Check if the mouse came from outside the `.item`
+  if (!item.contains(event.relatedTarget)) {
+    sound.currentTime = 0;
     sound.play();
   }
 });

@@ -13,6 +13,20 @@
       function playSound() {
         sound.play();
       }
+
+      const backgroundMusic = new Audio("sounds/marketTheme.mp3");
+
+      document.addEventListener(
+        "click",
+        function () {
+          backgroundMusic.play();
+        },
+        { once: true }
+      );
+
+      backgroundMusic.addEventListener("ended", function () {
+        backgroundMusic.play();
+      });
     </script>
   </head>
 
@@ -30,7 +44,7 @@
         <div class="slider-container">
           <div class="slider-label-row">
             <a href="#" class="slider-label" id="reset-slider" onmouseover="playSound()">GUI:</a>
-            <div id="slider-value" class="slider-label"></div>
+            <div class="slider-label" id="slider-value"></div>
           </div>
           <input type="range" min="100" max="300" value="160" id="slider" />
         </div>
