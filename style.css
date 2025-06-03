@@ -87,7 +87,7 @@
 @media (min-width: 353px) and (max-width: 392px) {
   .item,
   .item img {
-    max-width: 140px;
+    width: 140px;
   }
 
   .item h1,
@@ -109,7 +109,7 @@
 @media (min-width: 320px) and (max-width: 353px) {
   .item,
   .item img {
-    max-width: 120px;
+    width: 120px;
   }
 
   .item h1,
