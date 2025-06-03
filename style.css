@@ -100,7 +100,8 @@
   }
 
   .item .addToWishlistButton {
-    font-size: 65%;
+    font-size: 72%;
+    padding: 6px 10px;
   }
 }
 
@@ -121,9 +122,14 @@
     margin: 3px;
   }
 
+  .item .inWishlistButton {
+    padding: 5px 12px;
+    font-size: 70%;
+  }
+
   .item .addToWishlistButton {
-    padding: 6px 12px;
-    font-size: 58%;
+    padding: 8px 8px;
+    font-size: 62%;
   }
 }
 
@@ -322,7 +328,7 @@ body {
   border: none;
   background-color: #302e2df3;
   color: rgb(255, 255, 255);
-  padding: 10px 20px;
+  padding: 10px 15px;
   border-radius: 5px;
   margin: 4px 0;
   transition: transform 0.2s ease-in-out;
