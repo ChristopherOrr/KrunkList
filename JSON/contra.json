@@ -4096,5 +4096,23 @@
     "label": "Krunkette 1",
     "url": "https://assets.krunker.io/textures/sprays/51.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
     "rarity": "contraband"
+  },
+  {
+    "id": "7121",
+    "label": "Spectre",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m16_339.png?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7122",
+    "label": "Echo",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m35.png?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7127",
+    "label": "Bald Cap",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_483.png?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
+    "rarity": "contraband"
   }
 ]
