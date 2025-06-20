@@ -186,6 +186,18 @@
     "rarity": "contraband"
   },
   {
+    "id": "7132",
+    "label": "Rat Head",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_485.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7139",
+    "label": "Rabbit Head",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_486.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "contraband"
+  },
+  {
     "id": "7146",
     "label": "Cat Head",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/1_487.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
@@ -504,6 +516,18 @@
     "rarity": "contraband"
   },
   {
+    "id": "7128",
+    "label": "Adventurous Black Cape",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_267_1.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7135",
+    "label": "Adventurous White Cape",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_269.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "contraband"
+  },
+  {
     "id": "7142",
     "label": "Adventurous Brown Cape",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/2_270.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
@@ -693,6 +717,18 @@
     "id": "6904",
     "label": "Cyber Bunny Dye",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/5_31.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7134",
+    "label": "Rat Dye",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_33.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7141",
+    "label": "Rabbit Dye",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_34.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
     "rarity": "contraband"
   },
   {
@@ -1407,6 +1443,18 @@
     "id": "7093",
     "label": "HarmoniQ",
     "url": "https://assets.krunker.io/textures/previews/melee/melee_141.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7133",
+    "label": "Blood Ruby Gladius",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_142.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7140",
+    "label": "Lepidolite Buster",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_143.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
     "rarity": "contraband"
   },
   {

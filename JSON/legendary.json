@@ -2034,6 +2034,18 @@
     "rarity": "legendary"
   },
   {
+    "id": "7129",
+    "label": "Adventurous Black Armor",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_268.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "legendary"
+  },
+  {
+    "id": "7136",
+    "label": "Adventurous Brown Armor",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_268_1.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "legendary"
+  },
+  {
     "id": "7143",
     "label": "Adventurous White Armor",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/2_268_2.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
@@ -4833,6 +4845,18 @@
     "id": "6984",
     "label": ":O Socks",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/8_53.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
+    "rarity": "legendary"
+  },
+  {
+    "id": "7131",
+    "label": "Adventurous Black Boots",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_55.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "legendary"
+  },
+  {
+    "id": "7138",
+    "label": "Adventurous Brown Boots",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_55_1.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
     "rarity": "legendary"
   },
   {
