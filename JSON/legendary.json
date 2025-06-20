@@ -2034,6 +2034,12 @@
     "rarity": "legendary"
   },
   {
+    "id": "7143",
+    "label": "Adventurous White Armor",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_268_2.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "legendary"
+  },
+  {
     "id": "1019",
     "label": "Carockets",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/2_27.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
@@ -4827,6 +4833,12 @@
     "id": "6984",
     "label": ":O Socks",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/8_53.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
+    "rarity": "legendary"
+  },
+  {
+    "id": "7145",
+    "label": "Adventurous White Boots",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/8_55_2.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
     "rarity": "legendary"
   },
   {

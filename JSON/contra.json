@@ -186,6 +186,12 @@
     "rarity": "contraband"
   },
   {
+    "id": "7146",
+    "label": "Cat Head",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_487.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "contraband"
+  },
+  {
     "id": "1068",
     "label": "U.F.0",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/1_68.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
@@ -498,6 +504,12 @@
     "rarity": "contraband"
   },
   {
+    "id": "7142",
+    "label": "Adventurous Brown Cape",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_270.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "contraband"
+  },
+  {
     "id": "1023",
     "label": "Egg Tamer",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/2_31.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
@@ -681,6 +693,12 @@
     "id": "6904",
     "label": "Cyber Bunny Dye",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/5_31.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7148",
+    "label": "Cat Dye",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/5_35.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
     "rarity": "contraband"
   },
   {
@@ -1389,6 +1407,12 @@
     "id": "7093",
     "label": "HarmoniQ",
     "url": "https://assets.krunker.io/textures/previews/melee/melee_141.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7147",
+    "label": "Kyanite Scimitar",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_144.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
     "rarity": "contraband"
   },
   {
@@ -4095,24 +4119,6 @@
     "id": "951",
     "label": "Krunkette 1",
     "url": "https://assets.krunker.io/textures/sprays/51.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
-    "rarity": "contraband"
-  },
-  {
-    "id": "7121",
-    "label": "Spectre",
-    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m16_339.png?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
-    "rarity": "contraband"
-  },
-  {
-    "id": "7122",
-    "label": "Echo",
-    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m35.png?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
-    "rarity": "contraband"
-  },
-  {
-    "id": "7127",
-    "label": "Bald Cap",
-    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_483.png?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
     "rarity": "contraband"
   }
 ]

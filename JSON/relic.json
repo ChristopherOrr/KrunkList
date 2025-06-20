@@ -960,6 +960,12 @@
     "rarity": "relic"
   },
   {
+    "id": "7144",
+    "label": "Adventurous Brown Hood",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_484_2.png?build=BXagQiL7DeAR1ZT7D3ItdrjTZSNjX1VS",
+    "rarity": "relic"
+  },
+  {
     "id": "1410",
     "label": "Bandito",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/1_71.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
@@ -8547,30 +8553,6 @@
     "id": "1347",
     "label": "Anti-cheat",
     "url": "https://assets.krunker.io/textures/sprays/68.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
-    "rarity": "relic"
-  },
-  {
-    "id": "7123",
-    "label": "Shroud",
-    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_3_m11_81.png?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
-    "rarity": "relic"
-  },
-  {
-    "id": "7124",
-    "label": "Phantom",
-    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_22_m4.png?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
-    "rarity": "relic"
-  },
-  {
-    "id": "7125",
-    "label": "Contract Killer",
-    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_3_12.png?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
-    "rarity": "relic"
-  },
-  {
-    "id": "7126",
-    "label": "Armory",
-    "url": "https://assets.krunker.io/textures/playercards/card_53.webp?build=arKUXZaIjdhJUeBjRRup0YCITZCqeTKT",
     "rarity": "relic"
   }
 ]
