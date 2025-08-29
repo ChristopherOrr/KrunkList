@@ -1,0 +1,512 @@
+[
+  {
+    "id": "6197",
+    "label": "Teal Pixel Digital",
+    "url": "https://assets.krunker.io/textures/playercards/card_28.webp?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "6198",
+    "label": "Green Pixel Digital",
+    "url": "https://assets.krunker.io/textures/playercards/card_29.webp?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "6199",
+    "label": "Purple Pixel Digital",
+    "url": "https://assets.krunker.io/textures/playercards/card_30.webp?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "6200",
+    "label": "Red Pixel Digital",
+    "url": "https://assets.krunker.io/textures/playercards/card_31.webp?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "7244",
+    "label": "Pride",
+    "url": "https://assets.krunker.io/textures/playercards/card_65.webp?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4544",
+    "label": "Triggerman",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_212.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4545",
+    "label": "Hunter",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_213.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4546",
+    "label": "Run N Gun",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_214.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4547",
+    "label": "Spray N Pray",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_215.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4548",
+    "label": "Vince",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_216.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4549",
+    "label": "Detective",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_217.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4550",
+    "label": "Marksman",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_218.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4551",
+    "label": "Rocketeer",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_219.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4552",
+    "label": "Agent",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_220.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4553",
+    "label": "Runner",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_221.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4554",
+    "label": "Bowman",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_222.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4555",
+    "label": "Commando",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_223.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4556",
+    "label": "Trooper",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_224.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "5234",
+    "label": "Infiltrator",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_426.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2482",
+    "label": "Krunker",
+    "url": "https://assets.krunker.io/textures/sprays/0.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2483",
+    "label": "Target",
+    "url": "https://assets.krunker.io/textures/sprays/1.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2492",
+    "label": "Kiki",
+    "url": "https://assets.krunker.io/textures/sprays/10.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2535",
+    "label": "Poisn",
+    "url": "https://assets.krunker.io/textures/sprays/106.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2493",
+    "label": "Ladder",
+    "url": "https://assets.krunker.io/textures/sprays/11.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2494",
+    "label": "Dummy",
+    "url": "https://assets.krunker.io/textures/sprays/12.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2495",
+    "label": "8 Ball",
+    "url": "https://assets.krunker.io/textures/sprays/13.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2496",
+    "label": "xD",
+    "url": "https://assets.krunker.io/textures/sprays/14.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2536",
+    "label": "Chwoubaka",
+    "url": "https://assets.krunker.io/textures/sprays/140.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2537",
+    "label": "Mile",
+    "url": "https://assets.krunker.io/textures/sprays/141.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2497",
+    "label": "MMOK",
+    "url": "https://assets.krunker.io/textures/sprays/15.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2713",
+    "label": "Absent",
+    "url": "https://assets.krunker.io/textures/sprays/158.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2498",
+    "label": "Madman",
+    "url": "https://assets.krunker.io/textures/sprays/16.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2499",
+    "label": "Terminal",
+    "url": "https://assets.krunker.io/textures/sprays/17.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2500",
+    "label": "YODO",
+    "url": "https://assets.krunker.io/textures/sprays/18.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2501",
+    "label": "undercoverdudes",
+    "url": "https://assets.krunker.io/textures/sprays/19.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2484",
+    "label": "GG",
+    "url": "https://assets.krunker.io/textures/sprays/2.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2502",
+    "label": "Myth",
+    "url": "https://assets.krunker.io/textures/sprays/20.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2503",
+    "label": "SpikyJohn",
+    "url": "https://assets.krunker.io/textures/sprays/21.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2504",
+    "label": "LevelGaming",
+    "url": "https://assets.krunker.io/textures/sprays/22.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "3074",
+    "label": "Cimota",
+    "url": "https://assets.krunker.io/textures/sprays/225.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "3075",
+    "label": "Slymex",
+    "url": "https://assets.krunker.io/textures/sprays/226.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "3076",
+    "label": "Mommys",
+    "url": "https://assets.krunker.io/textures/sprays/227.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "3114",
+    "label": "Teds",
+    "url": "https://assets.krunker.io/textures/sprays/228.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2505",
+    "label": "Daytrader",
+    "url": "https://assets.krunker.io/textures/sprays/23.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2506",
+    "label": "Nice Junk",
+    "url": "https://assets.krunker.io/textures/sprays/24.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "3234",
+    "label": "KrTree",
+    "url": "https://assets.krunker.io/textures/sprays/248.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2507",
+    "label": "Waspy",
+    "url": "https://assets.krunker.io/textures/sprays/25.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2508",
+    "label": "KPal",
+    "url": "https://assets.krunker.io/textures/sprays/26.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2509",
+    "label": "Rain Song",
+    "url": "https://assets.krunker.io/textures/sprays/27.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2510",
+    "label": "nV",
+    "url": "https://assets.krunker.io/textures/sprays/28.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2511",
+    "label": "BV Hype",
+    "url": "https://assets.krunker.io/textures/sprays/29.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2485",
+    "label": "Pumpkin",
+    "url": "https://assets.krunker.io/textures/sprays/3.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2512",
+    "label": "RiotAlexis",
+    "url": "https://assets.krunker.io/textures/sprays/30.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2513",
+    "label": "Deal With It",
+    "url": "https://assets.krunker.io/textures/sprays/31.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2514",
+    "label": "Khanreaper",
+    "url": "https://assets.krunker.io/textures/sprays/32.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2515",
+    "label": "Lore",
+    "url": "https://assets.krunker.io/textures/sprays/33.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2516",
+    "label": "Desu Sid",
+    "url": "https://assets.krunker.io/textures/sprays/34.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4575",
+    "label": "TheMeatman",
+    "url": "https://assets.krunker.io/textures/sprays/341.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4576",
+    "label": "Barrybee",
+    "url": "https://assets.krunker.io/textures/sprays/342.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "4577",
+    "label": "LizSwitch",
+    "url": "https://assets.krunker.io/textures/sprays/343.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2517",
+    "label": "Kappuccino",
+    "url": "https://assets.krunker.io/textures/sprays/35.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2518",
+    "label": "FaZe",
+    "url": "https://assets.krunker.io/textures/sprays/36.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2519",
+    "label": "Nudah",
+    "url": "https://assets.krunker.io/textures/sprays/37.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2520",
+    "label": "Misfits",
+    "url": "https://assets.krunker.io/textures/sprays/38.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2486",
+    "label": "Spooky",
+    "url": "https://assets.krunker.io/textures/sprays/4.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "6040",
+    "label": "Kashy",
+    "url": "https://assets.krunker.io/textures/sprays/460.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2487",
+    "label": "Ded",
+    "url": "https://assets.krunker.io/textures/sprays/5.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2521",
+    "label": "Bill $aber",
+    "url": "https://assets.krunker.io/textures/sprays/54.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2522",
+    "label": "Fields Food v1",
+    "url": "https://assets.krunker.io/textures/sprays/55.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2523",
+    "label": "14julink",
+    "url": "https://assets.krunker.io/textures/sprays/56.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2524",
+    "label": "Phil",
+    "url": "https://assets.krunker.io/textures/sprays/57.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2525",
+    "label": "TeamCrisis",
+    "url": "https://assets.krunker.io/textures/sprays/58.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2526",
+    "label": "LimpRizzle",
+    "url": "https://assets.krunker.io/textures/sprays/59.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2488",
+    "label": "Sadface",
+    "url": "https://assets.krunker.io/textures/sprays/6.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2527",
+    "label": "Zed",
+    "url": "https://assets.krunker.io/textures/sprays/63.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2528",
+    "label": "Northern Forces",
+    "url": "https://assets.krunker.io/textures/sprays/64.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2529",
+    "label": "Sorable",
+    "url": "https://assets.krunker.io/textures/sprays/65.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2530",
+    "label": "Syctis",
+    "url": "https://assets.krunker.io/textures/sprays/66.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2489",
+    "label": "Laugh Cry",
+    "url": "https://assets.krunker.io/textures/sprays/7.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2531",
+    "label": "Moon Juice",
+    "url": "https://assets.krunker.io/textures/sprays/79.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2490",
+    "label": "Sid",
+    "url": "https://assets.krunker.io/textures/sprays/8.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2532",
+    "label": "caL",
+    "url": "https://assets.krunker.io/textures/sprays/83.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2533",
+    "label": "Quacky",
+    "url": "https://assets.krunker.io/textures/sprays/87.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2534",
+    "label": "Verb",
+    "url": "https://assets.krunker.io/textures/sprays/88.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  },
+  {
+    "id": "2491",
+    "label": "Vince",
+    "url": "https://assets.krunker.io/textures/sprays/9.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "free"
+  }
+]

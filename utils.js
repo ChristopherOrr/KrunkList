@@ -2,16 +2,7 @@ import { excludedLabels } from "./excludedLunarContainers.js";
 
 // Order of Rarities
 
-export const rarities = [
-  "nft",
-  "unob",
-  "contra",
-  "relic",
-  "legendary",
-  "epic",
-  "rare",
-  "uncommon",
-];
+export const rarities = ["nft", "unob", "contra", "relic", "legendary", "epic", "rare", "uncommon", "free"];
 
 let itemDataCache = null;
 
@@ -40,8 +31,7 @@ export async function getItemData() {
 export function isExcludedLabel(label, rarity) {
   const normalizedLabel = label.trim().toLowerCase();
   return (
-    excludedLabels.some((l) => l.toLowerCase() === normalizedLabel) ||
-    (normalizedLabel === "vandal" && rarity === "contra") // Also check for Vandal Contraband Item
+    excludedLabels.some((l) => l.toLowerCase() === normalizedLabel) || (normalizedLabel === "vandal" && rarity === "contra") // Also check for Vandal Contraband Item
   );
 }
 

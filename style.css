@@ -24,7 +24,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding-top: 50px;
+  padding-top: 4em;
 }
 
 /* Properties for Empty Wishlist Message in loadWishlist.js */
@@ -43,25 +43,24 @@
 /* Properties for each Item Card Div */
 .item {
   background-color: rgba(0, 0, 0, 0.288);
-  border: 4px solid #ccc;
-  border-radius: 10px;
+  border: 3px solid #ccc;
+  border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.603);
-  margin: 10px;
+  margin: 5px;
   overflow: hidden;
+  text-overflow: ellipsis;
   position: relative; /* Needed for Item Label */
+  aspect-ratio: 1/1;
+  width: 160px;
 
   /* Variables for Scroll Fade In & Mouse Hover */
-  --fade-transform: translateY(20px) scale(0.9);
+  opacity: 0;
   --hover-scale: 1;
+  --fade-transform: translateY(20px) scale(0.9);
+  transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1), transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
   /* Compose final transform */
   transform: var(--fade-transform) scale(var(--hover-scale));
-
-  opacity: 0;
-  transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1), transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-
-  aspect-ratio: 1/1;
-  width: 160px;
 }
 
 /* Fade and Scale items when entering/leaving the page */
@@ -81,6 +80,7 @@
   display: block;
   object-fit: contain;
   width: 100%;
+  border-radius: 10px !important;
 }
 
 /* Scale down .item elements for small screens */
@@ -211,6 +211,13 @@
 .uncommon h1 {
   border-color: #b2f252;
   color: #b2f252;
+}
+
+/* Free Rarity Properties */
+.free,
+.free h1 {
+  border-color: #d3d3d3;
+  color: #d3d3d3;
 }
 
 /* Website Body Properties  */

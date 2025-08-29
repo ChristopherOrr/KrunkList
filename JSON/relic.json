@@ -1398,6 +1398,12 @@
     "rarity": "relic"
   },
   {
+    "id": "7250",
+    "label": "Kaizoku Cover",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_281.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "relic"
+  },
+  {
     "id": "1066",
     "label": "Gold N' Egg",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/2_30_1.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
@@ -2781,6 +2787,12 @@
     "id": "7039",
     "label": "MisMasked",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_610.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
+    "rarity": "relic"
+  },
+  {
+    "id": "7251",
+    "label": "Savvy, ehh??",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/7_0_615.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
     "rarity": "relic"
   },
   {

@@ -4168,5 +4168,35 @@
     "label": "Krunkette 1",
     "url": "https://assets.krunker.io/textures/sprays/51.png?build=fSwEfH0D9W0S93nf0DkA59ACuaTmQnlw",
     "rarity": "contraband"
+  },
+  {
+    "id": "7246",
+    "label": "Savvy? Matey",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_1_m37_37.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7247",
+    "label": "Avast! Matey",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_6_m17_340.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7248",
+    "label": "Ahoy!! Matey",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_5_m12_12.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7249",
+    "label": "Aye?! Matey",
+    "url": "https://assets.krunker.io/textures/previews/weapons/weapon_12_m6_7.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "contraband"
+  },
+  {
+    "id": "7252",
+    "label": "Yarr! Matey",
+    "url": "https://assets.krunker.io/textures/previews/melee/melee_150.png?build=CTQzvVzOppHzpSjQjmwwF82M55ZiA2hg",
+    "rarity": "contraband"
   }
 ]
