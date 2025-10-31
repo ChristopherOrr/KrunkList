@@ -1500,6 +1500,18 @@
     "rarity": "legendary"
   },
   {
+    "id": "7541",
+    "label": "Skull Head",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_503.png?build=3jG7h2nAvr595bBgWtxxT9IAPfX47yp8",
+    "rarity": "legendary"
+  },
+  {
+    "id": "7543",
+    "label": "Subject 67 Bandage",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/1_504.png?build=3jG7h2nAvr595bBgWtxxT9IAPfX47yp8",
+    "rarity": "legendary"
+  },
+  {
     "id": "847",
     "label": "Lord Panda",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/1_52.png?build=FohmVFnVOA6K1R6zUdM25drZVh20amaE",
@@ -2271,6 +2283,12 @@
     "id": "7504",
     "label": "Zephyr Cloak",
     "url": "https://assets.krunker.io/textures/previews/cosmetics/2_286_3.png?build=FohmVFnVOA6K1R6zUdM25drZVh20amaE",
+    "rarity": "legendary"
+  },
+  {
+    "id": "7540",
+    "label": "Spider Web",
+    "url": "https://assets.krunker.io/textures/previews/cosmetics/2_289.png?build=3jG7h2nAvr595bBgWtxxT9IAPfX47yp8",
     "rarity": "legendary"
   },
   {
