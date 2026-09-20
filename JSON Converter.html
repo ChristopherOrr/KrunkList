@@ -45,6 +45,7 @@
       <option value="epic">Epic</option>
       <option value="rare" selected>Rare</option>
       <option value="uncommon">Uncommon</option>
+      <option value="free">Free</option>
     </select>
 
     <br />
@@ -72,11 +73,7 @@
         }
 
         lastJSON = items;
-        document.getElementById("jsonOutput").textContent = JSON.stringify(
-          items,
-          null,
-          2
-        );
+        document.getElementById("jsonOutput").textContent = JSON.stringify(items, null, 2);
       }
 
       // Copy JSON output to clipboard
